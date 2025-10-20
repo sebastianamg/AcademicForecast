@@ -1,0 +1,30 @@
+{
+    "curriculum_name": "BScIT2023",
+    "courses": [
+        {"course": "GENL101", "pre": [], "pg": "D", "semester": 1},
+        {
+            "choice": {
+                "placeholder": "History Elective",
+                "courses": ["GENL110", "GENL111"]
+            },
+            "pre": [],
+            "pg": "D",
+            "semester": 2
+        },
+        {"course": "IT153", "pre": ["GENL101"], "pg": "C", "semester": 1},
+        {"course": "IT245", "pre": ["IT153"], "pg": "C", "semester": 3},
+        {"course": "IT252", "pre": ["IT153"], "pg": "C", "semester": 4},
+        {"course": "IT368", "pre": ["IT245"], "pg": "C", "semester": 5},
+        {"course": "IT423", "pre": ["IT368"], "pg": "C", "semester": 6}
+    ],
+    "major_electives": {
+        "courses": ["IT422", "IT424", "IT426"],
+        "slots": [
+            {"semester": 5, "placeholder": "Major Elective 1"},
+            {"semester": 6, "placeholder": "Major Elective 2"}
+        ]
+    },
+    "free_electives": [
+        {"semester": 4, "placeholder": "Free Elective 1"}
+    ]
+}
