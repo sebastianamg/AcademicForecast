@@ -79,17 +79,20 @@ def generate_forecast(student_id, student_data, course_offerings, current_year, 
     passed_core, failed_core, passed_choices, passed_major_electives, passed_free_electives = get_student_progress(student_courses, curriculum, grade_order)
 
     # --- Requirements Calculation ---
+    SEMESTERS_PER_YEAR = 3
+    current_semester_num = (int(current_year.split('-')[0]) - 2023) * SEMESTERS_PER_YEAR + int(current_semester)
+
     core_map = {item['course']: item for item in curriculum['courses'] if 'course' in item}
-    pending_core = {c for c, item in core_map.items() if c not in passed_core and c not in failed_core and item['semester'] >= (int(current_year.split('-')[0]) - 2023) * 2 + int(current_semester) }
+    pending_core = {c for c, item in core_map.items() if c not in passed_core and c not in failed_core and item['semester'] >= current_semester_num }
 
     choice_map = {item['choice']['placeholder']: item for item in curriculum['courses'] if 'choice' in item}
-    pending_choices = {p for p, item in choice_map.items() if p not in passed_choices and item['semester'] >= (int(current_year.split('-')[0]) - 2023) * 2 + int(current_semester)}
+    pending_choices = {p for p, item in choice_map.items() if p not in passed_choices and item['semester'] >= current_semester_num}
 
     major_reqs = curriculum.get('major_electives', {})
-    pending_major_slots = [slot for slot in major_reqs.get('slots', []) if slot['semester'] >= (int(current_year.split('-')[0]) - 2023) * 2 + int(current_semester)]
+    pending_major_slots = [slot for slot in major_reqs.get('slots', []) if slot['semester'] >= current_semester_num]
     available_major_courses = set(major_reqs.get('courses', [])) - passed_major_electives
 
-    pending_free_slots = [slot for slot in curriculum.get('free_electives', []) if slot['semester'] >= (int(current_year.split('-')[0]) - 2023) * 2 + int(current_semester)]
+    pending_free_slots = [slot for slot in curriculum.get('free_electives', []) if slot['semester'] >= current_semester_num]
 
     # --- Forecasting ---
     forecast = []
@@ -97,13 +100,16 @@ def generate_forecast(student_id, student_data, course_offerings, current_year, 
     retake_courses = set(failed_core)
     year, semester = int(current_year.split('-')[0]), int(current_semester)
 
-    for i in range(10): # Max 10 semesters
-        semester_num = (year - 2023) * 2 + semester + i
-        acad_year = f"{year + (i // 2)}-{year + (i // 2) + 1}"
-        sem_in_year = (semester + i -1) % 2 + 1
+    for i in range(15): # Max 15 semesters (5 years * 3)
+        semester_num = (year - 2023) * SEMESTERS_PER_YEAR + semester + i
+        acad_year = f"{year + (i // SEMESTERS_PER_YEAR)}-{year + (i // SEMESTERS_PER_YEAR) + 1}"
+        sem_in_year = (semester + i - 1) % SEMESTERS_PER_YEAR + 1
         
         courses_to_take = []
-        sem_str = str(sem_in_year)
+        if sem_in_year == 3:
+            sem_str = 's'
+        else:
+            sem_str = str(sem_in_year)
         offering = course_offerings.get(sem_str, set())
 
         # Retakes

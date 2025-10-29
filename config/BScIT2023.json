@@ -18,13 +18,17 @@
         {"course": "IT423", "pre": ["IT368"], "pg": "C", "semester": 6}
     ],
     "major_electives": {
+        "pg": "C",
         "courses": ["IT422", "IT424", "IT426"],
         "slots": [
             {"semester": 5, "placeholder": "Major Elective 1"},
             {"semester": 6, "placeholder": "Major Elective 2"}
         ]
     },
-    "free_electives": [
-        {"semester": 4, "placeholder": "Free Elective 1"}
-    ]
+    "free_electives": {
+        "pg": "D",
+        "slots": [
+            {"semester": 4, "placeholder": "Free Elective 1"}
+        ]
+    }
 }

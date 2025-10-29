@@ -1,0 +1,83 @@
+{
+    "curriculum_name": "BScIT2018",
+    "courses": [
+        {"course": "EDUC111", "pre": [], "pg": "D", "semester": 1},
+        {"course": "ENGL111", "pre": [], "pg": "D", "semester": 1},
+        {"course": "ENGL112", "pre": ["ENGL111"], "pg": "D", "semester": 1},
+        {"course": "HLED117", "pre": [], "pg": "D", "semester": 1},
+        {"course": "PSYC115", "pre": [], "pg": "D", "semester": 1},
+        {
+            "choice": {
+                "placeholder": "Humanities-1",
+                "courses": ["RELB215","RELH271"]
+            },
+            "pre": [],
+            "pg": "D",
+            "semester": 1
+        },
+        {
+            "choice": {
+                "placeholder": "Humanities-2",
+                "courses": ["RELT113","RELT213"]
+            },
+            "pre": [],
+            "pg": "D",
+            "semester": 1
+        },
+
+
+        {"course": "CPTR114", "pre": [], "pg": "D+", "semester": 2},
+        {"course": "BUAD234", "pre": [], "pg": "D+", "semester": 2},
+        {"course": "ENGL112", "pre": [], "pg": "D", "semester": 2},
+        {"course": "MATH112", "pre": [], "pg": "D", "semester": 2},
+
+        {
+            "choice": {
+                "placeholder": "Humanities-3",
+                "courses": ["RELB116","RELT150"]
+            },
+            "pre": [],
+            "pg": "D",
+            "semester": 2
+        },
+
+        {
+            "choice": {
+                "placeholder": "Humanities-4",
+                "courses": ["HIST212","HIST213","HMNT210","HMNT216"]
+            },
+            "pre": [],
+            "pg": "D",
+            "semester": 2
+        },
+        {"course": "IT231", "pre": [], "pg": "D+", "semester": 4},
+        {"course": "IT251", "pre": [], "pg": "D+", "semester": 4},
+        {"course": "IT295", "pre": [], "pg": "D+", "semester": 4},
+        {"course": "MATH235", "pre": [], "pg": "D+", "semester": 4},
+        {"course": "MNGT231", "pre": [], "pg": "D+", "semester": 4},
+        {"course": "IT232", "pre": [], "pg": "D+", "semester": 5},
+        {"course": "IT282", "pre": [], "pg": "C", "semester": 5},
+        {"course": "IT272", "pre": [], "pg": "D+", "semester": 5},
+        {"course": "IT242", "pre": [], "pg": "C", "semester": 5},
+        {"course": "IT274", "pre": [], "pg": "D+", "semester": 5},
+
+
+
+
+    ],
+    "major_electives": {
+        "pg": "C",
+        "courses": ["IT422", "IT424", "IT426"],
+        "slots": [
+            {"semester": 5, "placeholder": "Major Elective 1"},
+            {"semester": 6, "placeholder": "Major Elective 2"}
+        ]
+    },
+    "free_electives": {
+        "pg": "D",
+        "slots": [
+            {"semester": 3, "placeholder": "Free Elective 1"},
+            {"semester": 9, "placeholder": "Free Elective 1"}
+        ]
+    }
+}
