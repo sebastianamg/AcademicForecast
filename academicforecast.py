@@ -25,40 +25,48 @@ def get_student_progress(student_courses, curriculum, grade_order):
     major_electives_passed = set()
     free_electives_passed_count = 0
 
-    core_courses_map = {item['course']: item for item in curriculum['courses'] if 'course' in item}
-    choice_map = {item['choice']['placeholder']: item for item in curriculum['courses'] if 'choice' in item}
+    # Create maps from curriculum, handling complex course codes
+    core_courses_map = {item['course']: item for item in curriculum.get('courses', []) if 'course' in item}
+    code_to_curriculum_core = {code: item['course'] for item in curriculum.get('courses', []) if 'course' in item for code in item['course'].split('/')}
+
+    choice_map = {item['choice']['placeholder']: item for item in curriculum.get('courses', []) if 'choice' in item}
+    code_to_choice_placeholder = {code: p for p, item in choice_map.items() for choice_course in item['choice']['courses'] for code in choice_course.split('/')}
+
     major_elective_options = set(curriculum.get('major_electives', {}).get('courses', []))
+    code_to_curriculum_major = {code: major_course for major_course in major_elective_options for code in major_course.split('/')}
 
     for course_code, details in student_courses.items():
         grade = details.get("grade")
         pg = 'D'  # Default passing grade
 
-        if course_code in core_courses_map:
-            pg = core_courses_map[course_code].get('pg', 'D')
+        if course_code in code_to_curriculum_core:
+            curriculum_course = code_to_curriculum_core[course_code]
+            pg = core_courses_map[curriculum_course].get('pg', 'D')
             if is_grade_passing(grade, pg, grade_order):
-                passed_courses.add(course_code)
+                passed_courses.add(curriculum_course)
             else:
-                failed_courses.add(course_code)
+                failed_courses.add(curriculum_course)
+        
+        elif course_code in code_to_curriculum_major:
+            curriculum_major = code_to_curriculum_major[course_code]
+            if is_grade_passing(grade, pg, grade_order):
+                major_electives_passed.add(curriculum_major)
+
+        elif course_code in code_to_choice_placeholder:
+            placeholder = code_to_choice_placeholder[course_code]
+            pg = choice_map[placeholder].get('pg', 'D')
+            if is_grade_passing(grade, pg, grade_order):
+                passed_choices.add(placeholder)
+        
         else:
-            is_major_elective = False
-            if course_code in major_elective_options:
-                if is_grade_passing(grade, pg, grade_order):
-                    major_electives_passed.add(course_code)
-                    is_major_elective = True
-            
-            is_choice_option = False
-            for placeholder, item in choice_map.items():
-                if course_code in item['choice']['courses']:
-                    if is_grade_passing(grade, item.get('pg', 'D'), grade_order):
-                        passed_choices.add(placeholder)
-                    is_choice_option = True
-                    break
-            
-            if not is_major_elective and not is_choice_option:
-                if is_grade_passing(grade, pg, grade_order):
-                    free_electives_passed_count += 1
+            if is_grade_passing(grade, pg, grade_order):
+                free_electives_passed_count += 1
 
     return passed_courses, failed_courses, passed_choices, major_electives_passed, free_electives_passed_count
+
+def is_course_offered(course, offering):
+    """Checks if a potentially multi-ID course is in the current semester's offerings."""
+    return any(code in offering for code in course.split('/'))
 
 def generate_forecast(student_id, student_data, course_offerings, current_year, current_semester, grade_order):
     curriculum_id = student_data.get("curriculum")
@@ -96,32 +104,42 @@ def generate_forecast(student_id, student_data, course_offerings, current_year, 
         
         courses_to_take = []
         sem_str = str(sem_in_year)
-        offering = course_offerings.get(sem_str, {})
+        offering = course_offerings.get(sem_str, set())
 
         # Retakes
         for course in list(retake_courses):
-            if course in offering: courses_to_take.append(course); retake_courses.remove(course)
+            if is_course_offered(course, offering):
+                courses_to_take.append(course)
+                retake_courses.remove(course)
 
         # Core
         for course in list(pending_core):
             if core_map[course]['semester'] == semester_num and set(core_map[course].get('pre', [])).issubset(forecast_passed):
-                courses_to_take.append(course); pending_core.remove(course)
+                if is_course_offered(course, offering):
+                    courses_to_take.append(course)
+                    pending_core.remove(course)
 
         # Choices
         for p_holder in list(pending_choices):
             if choice_map[p_holder]['semester'] == semester_num and set(choice_map[p_holder].get('pre', [])).issubset(forecast_passed):
-                courses_to_take.append(p_holder); pending_choices.remove(p_holder)
+                courses_to_take.append(p_holder)
+                pending_choices.remove(p_holder)
 
         # Major Electives
         for slot in list(pending_major_slots):
             if slot['semester'] == semester_num:
                 for course in list(available_major_courses):
-                    if course in offering:
-                        courses_to_take.append(course); available_major_courses.remove(course); pending_major_slots.remove(slot); break
+                    if is_course_offered(course, offering):
+                        courses_to_take.append(course)
+                        available_major_courses.remove(course)
+                        pending_major_slots.remove(slot)
+                        break
 
         # Free Electives
         for slot in list(pending_free_slots):
-            if slot['semester'] == semester_num: courses_to_take.append(slot['placeholder']); pending_free_slots.remove(slot)
+            if slot['semester'] == semester_num:
+                courses_to_take.append(slot['placeholder'])
+                pending_free_slots.remove(slot)
 
         if courses_to_take:
             forecast.append({"academic_year": acad_year, "semester": str(sem_in_year), "courses": courses_to_take})
@@ -150,8 +168,12 @@ def main():
     course_offerings = {}
     for sem in ["1s", "2s", "ss"]:
         filepath = os.path.join("config", f"{sem}.json")
-        offerings = load_json_data(filepath)
-        if offerings: course_offerings[sem.replace('s', '')] = offerings
+        offerings_list = load_json_data(filepath)
+        if offerings_list:
+            processed_offerings = set()
+            for course in offerings_list:
+                processed_offerings.update(course.split('/'))
+            course_offerings[sem.replace('s', '')] = processed_offerings
 
     if not course_offerings: return print("Error: No course offerings found.")
 

@@ -1,0 +1,48 @@
+{
+  "GENL112-1":{
+    "name": "English Composition II",
+    "credits": 3,
+    "status": "p",
+    "teacher_name": "Mr. Danutasn Brown",
+    "teacher_id": 19,
+    "theory_hours": 2,
+    "lab_hours": 2,
+    "estimated_students": 28,
+    "room_size": "S",
+    "theory_room": "normal",
+    "lab_room": "normal",
+    "break_theory": "FALSE",
+    "break_lab": "FALSE"
+  },
+  "GENL112-2":{
+    "name": "English Composition II",
+    "credits": 3,
+    "status": "p",
+    "teacher_name": "Ms. Pan Zhen",
+    "teacher_id": 21,
+    "theory_hours": 2,
+    "lab_hours": 2,
+    "estimated_students": 50,
+    "room_size": "M",
+    "theory_room": "normal",
+    "lab_room": "normal",
+    "break_theory": "FALSE",
+    "break_lab": "FALSE"
+  },
+  "GENL114-1-1":{
+    "notes": "[1FRS, FIT] ",
+    "name": "IT Fundamentals and Applications",
+    "credits": 2,
+    "status": "f",
+    "teacher_name": "Mr. Giovanni Sullano Agra",
+    "teacher_id": 71,
+    "theory_hours": 1,
+    "lab_hours": 0,
+    "estimated_students": 88,
+    "room_size": "L",
+    "theory_room": "amph",
+    "lab_room": "comp_lab",
+    "break_theory": "FALSE",
+    "break_lab": "FALSE"
+  }
+}
