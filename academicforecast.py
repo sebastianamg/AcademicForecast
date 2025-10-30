@@ -32,12 +32,16 @@ def get_student_progress(student_courses, curriculum, grade_order):
     choice_map = {item['choice']['placeholder']: item for item in curriculum.get('courses', []) if 'choice' in item}
     code_to_choice_placeholder = {code: p for p, item in choice_map.items() for choice_course in item['choice']['courses'] for code in choice_course.split('/')}
 
-    major_elective_options = set(curriculum.get('major_electives', {}).get('courses', []))
-    code_to_curriculum_major = {code: major_course for major_course in major_elective_options for code in major_course.split('/')}
+    major_reqs = curriculum.get('major_electives', {})
+    major_elective_courses = major_reqs.get('courses', []) # list of objects
+    major_pg = major_reqs.get('pg', 'D')
+    code_to_curriculum_major = {code: item['course'] for item in major_elective_courses for code in item['course'].split('/')}
+
+    free_elective_reqs = curriculum.get('free_electives', {})
+    free_pg = free_elective_reqs.get('pg', 'D')
 
     for course_code, details in student_courses.items():
         grade = details.get("grade")
-        pg = 'D'  # Default passing grade
 
         if course_code in code_to_curriculum_core:
             curriculum_course = code_to_curriculum_core[course_code]
@@ -49,7 +53,7 @@ def get_student_progress(student_courses, curriculum, grade_order):
         
         elif course_code in code_to_curriculum_major:
             curriculum_major = code_to_curriculum_major[course_code]
-            if is_grade_passing(grade, pg, grade_order):
+            if is_grade_passing(grade, major_pg, grade_order):
                 major_electives_passed.add(curriculum_major)
 
         elif course_code in code_to_choice_placeholder:
@@ -59,7 +63,7 @@ def get_student_progress(student_courses, curriculum, grade_order):
                 passed_choices.add(placeholder)
         
         else:
-            if is_grade_passing(grade, pg, grade_order):
+            if is_grade_passing(grade, free_pg, grade_order):
                 free_electives_passed_count += 1
 
     return passed_courses, failed_courses, passed_choices, major_electives_passed, free_electives_passed_count
@@ -90,9 +94,10 @@ def generate_forecast(student_id, student_data, course_offerings, current_year, 
 
     major_reqs = curriculum.get('major_electives', {})
     pending_major_slots = [slot for slot in major_reqs.get('slots', []) if slot['semester'] >= current_semester_num]
-    available_major_courses = set(major_reqs.get('courses', [])) - passed_major_electives
+    major_courses_list = major_reqs.get('courses', [])
+    available_major_courses = [c for c in major_courses_list if c['course'] not in passed_major_electives]
 
-    pending_free_slots = [slot for slot in curriculum.get('free_electives', []) if slot['semester'] >= current_semester_num]
+    pending_free_slots = [slot for slot in curriculum.get('free_electives', {}).get('slots', []) if slot['semester'] >= current_semester_num]
 
     # --- Forecasting ---
     forecast = []
@@ -134,10 +139,13 @@ def generate_forecast(student_id, student_data, course_offerings, current_year, 
         # Major Electives
         for slot in list(pending_major_slots):
             if slot['semester'] == semester_num:
-                for course in list(available_major_courses):
-                    if is_course_offered(course, offering):
-                        courses_to_take.append(course)
-                        available_major_courses.remove(course)
+                for course_obj in list(available_major_courses):
+                    course_name = course_obj['course']
+                    prereqs = course_obj.get('pre', [])
+                    
+                    if set(prereqs).issubset(forecast_passed) and is_course_offered(course_name, offering):
+                        courses_to_take.append(course_name)
+                        available_major_courses.remove(course_obj)
                         pending_major_slots.remove(slot)
                         break
 

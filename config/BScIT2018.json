@@ -24,13 +24,10 @@
             "pg": "D",
             "semester": 1
         },
-
-
         {"course": "CPTR114", "pre": [], "pg": "D+", "semester": 2},
         {"course": "BUAD234", "pre": [], "pg": "D+", "semester": 2},
         {"course": "ENGL112", "pre": [], "pg": "D", "semester": 2},
         {"course": "MATH112", "pre": [], "pg": "D", "semester": 2},
-
         {
             "choice": {
                 "placeholder": "Humanities-3",
@@ -40,7 +37,6 @@
             "pg": "D",
             "semester": 2
         },
-
         {
             "choice": {
                 "placeholder": "Humanities-4",
@@ -50,34 +46,68 @@
             "pg": "D",
             "semester": 2
         },
-        {"course": "IT231", "pre": [], "pg": "D+", "semester": 4},
-        {"course": "IT251", "pre": [], "pg": "D+", "semester": 4},
+        {"course": "IT231", "pre": ["CPTR114"], "pg": "D+", "semester": 4},
+        {"course": "IT251", "pre": ["CPTR114"], "pg": "D+", "semester": 4},
         {"course": "IT295", "pre": [], "pg": "D+", "semester": 4},
         {"course": "MATH235", "pre": [], "pg": "D+", "semester": 4},
         {"course": "MNGT231", "pre": [], "pg": "D+", "semester": 4},
-        {"course": "IT232", "pre": [], "pg": "D+", "semester": 5},
-        {"course": "IT282", "pre": [], "pg": "C", "semester": 5},
+        {"course": "IT232", "pre": ["IT231"], "pg": "D+", "semester": 5},
+        {"course": "IT282", "pre": ["CPTR114"], "pg": "C", "semester": 5},
         {"course": "IT272", "pre": [], "pg": "D+", "semester": 5},
-        {"course": "IT242", "pre": [], "pg": "C", "semester": 5},
+        {"course": "IT242", "pre": ["CPTR114"], "pg": "C", "semester": 5},
         {"course": "IT274", "pre": [], "pg": "D+", "semester": 5},
-
-
-
-
+        {"course": "IT240", "pre": ["CPTR114"], "pg": "C", "semester": 6},
+        {"course": "IT333", "pre": ["IT232"], "pg": "D+", "semester": 7},
+        {"course": "IT383", "pre": ["IT282"], "pg": "C", "semester": 7},
+        {"course": "IT341", "pre": ["IT242","IT231"], "pg": "C", "semester": 7},
+        {"course": "IT371", "pre": [], "pg": "D+", "semester": 7},
+        {"course": "IT384", "pre": ["IT282"], "pg": "C", "semester": 8},
+        {"course": "IT352", "pre": ["IT251","IT231"], "pg": "D+", "semester": 8},
+        {"course": "MNGT378", "pre": [], "pg": "D+", "semester": 8},
+        {"course": "RELP312", "pre": [], "pg": "D", "semester": 8},
+        {"course": "IT447", "pre": [], "pg": "C", "semester": 10},
+        {"course": "IT483", "pre": [], "pg": "C", "semester": 10},
+        {"course": "IT468", "pre": [], "pg": "C", "semester": 11},
+        {"course": "IT484", "pre": ["IT483"], "pg": "C", "semester": 11}
     ],
     "major_electives": {
         "pg": "C",
-        "courses": ["IT422", "IT424", "IT426"],
+        "courses": [
+            {"course": "ACCT131", "pre": []},
+            {"course": "IT323", "pre": []},
+            {"course": "IT325", "pre": []},
+            {"course": "IT326", "pre": ["IT232"]},
+            {"course": "IT327", "pre": []},
+            {"course": "IT328", "pre": ["IT232"]},
+            {"course": "IT343", "pre": ["IT232"]},
+            {"course": "IT345", "pre": ["IT232"]},
+            {"course": "IT347", "pre": ["IT232"]},
+            {"course": "IT364", "pre": []},
+            {"course": "IT421", "pre": []},
+            {"course": "IT422", "pre": []},
+            {"course": "IT423", "pre": ["IT251"]},
+            {"course": "IT424", "pre": ["IT251"]},
+            {"course": "IT445", "pre": []},
+            {"course": "IT460", "pre": ["IT240"]},
+            {"course": "IT461", "pre": ["ACCT132"]},
+            {"course": "IT463", "pre": []},
+            {"course": "IT480", "pre": []},
+            {"course": "IT485", "pre": []}
+        ],
         "slots": [
-            {"semester": 5, "placeholder": "Major Elective 1"},
-            {"semester": 6, "placeholder": "Major Elective 2"}
+            {"semester": 6, "placeholder": "Major Elective 1"},
+            {"semester": 7, "placeholder": "Major Elective 2"},
+            {"semester": 8, "placeholder": "Major Elective 3"},
+            {"semester": 9, "placeholder": "Major Elective 4"},
+            {"semester": 10, "placeholder": "Major Elective 5"},
+            {"semester": 11, "placeholder": "Major Elective 6"}
         ]
     },
     "free_electives": {
         "pg": "D",
         "slots": [
             {"semester": 3, "placeholder": "Free Elective 1"},
-            {"semester": 9, "placeholder": "Free Elective 1"}
+            {"semester": 9, "placeholder": "Free Elective 2"}
         ]
     }
 }
