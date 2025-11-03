@@ -1,119 +1,592 @@
 [
-  "GENL101",
-  "GENL111",
-  "GENL113",
-  "GENL116",
-  "GENL117",
-  "GENL118/217",
-  "GENL213",
-  "GENL115",
-  "EDUC115/GENL118",
-  "GENL211",
-  "GENL214",
-  "GENL215/GENL216",
-  "GENL227",
-  "GENL312/GENL311",
-  "GENL114",
-  "GENL218",
-  "GENL113/IT115",
-  "ENGL112/GENL214",
-  "ENGL152",
-  "ENGL231",
-  "ENGL251",
-  "ENGL257",
-  "ENGL325",
-  "ENGL347",
-  "ENGL351",
-  "ENGL355",
-  "ENGL391",
-  "ACCT131",
-  "MNGT131",
-  "ACCT221",
-  "ECON233",
-  "MNGT225/IT460",
-  "MATH235/IT350",
-  "ACCT321",
-  "ACCT347/ACCT468",
-  "ACCT364",
-  "BUAD331",
-  "MKTG238",
-  "MNGT336",
-  "MNGT343",
-  "MNGT377",
-  "ACCT463",
-  "ACCT467",
-  "BUAD427",
-  "BUAD437",
-  "BUAD499",
-  "MNGT447",
-  "MNGT565/MNGT465",
-  "MNGT489",
-  "EDUC121",
-  "EDUC142",
-  "EDUC237",
-  "EDUC253",
-  "EDUC363",
-  "EDUC345",
-  "PSYC315",
-  "PSYC325",
-  "EDUC443",
-  "EDUC447",
-  "EDUC449",
-  "EDUC461",
-  "EDUC471",
-  "RELB121",
-  "RELB170",
-  "RELB252/RELB451",
-  "RELM280/RELB380",
-  "RELP223",
-  "RELT271",
-  "RELB300/RELB331",
-  "RELB321",
-  "RELG324/RELB325",
-  "RELP327",
-  "RELB361/190",
-  "RELB421",
-  "RELB466",
-  "RELT457",
-  "BIOL131",
-  "CHEM121",
-  "CHEM141",
-  "MATH121",
-  "BIOL385",
-  "BIOL261/PUHE261/CNSC121",
-  "BIOL281",
-  "CHEM241",
-  "PUHE221",
-  "PUHE243",
-  "PUHE248",
-  "MATH241",
-  "BIOL321",
-  "BIOL333",
-  "BIOL345",
-  "BIOL382",
-  "CHEM361",
-  "PHYS231/PHYS331",
-  "PUHE329",
-  "PUHE381",
-  "BIOL422",
-  "BIOL475",
-  "BIOL421",
-  "BIOL461",
-  "IT153",
-  "IT241",
-  "IT243/IT295",
-  "IT245",
-  "IT247/IT333",
-  "IT341/IT367",
-  "IT325",
-  "IT363",
-  "IT365",
-  "IT371/IT268",
-  "IT383/IT325",
-  "IT424",
-  "IT384",
-  "CNSC125",
-  "CNSC221",
-  "NSSC231",
-  "GENL081"
+  {
+    "BScIT2018": "EDUC111",
+    "BScIT2023": "GENL111",
+    "course_name": "Orientation to Higher Education / Essential Skills for Higher Education"
+  },
+  {
+    "BScIT2018": "RELB116",
+    "BScIT2023": "GENL116",
+    "course_name": "Living Like Jesus in the Modern World / Life and Teachings of Jesus"
+  },
+  {
+    "BScIT2018": "HMNT216",
+    "BScIT2023": "HMNT216",
+    "course_name": "Conversational Thai I"
+  },
+  {
+    "BScIT2018": "HLED117",
+    "BScIT2023": "GENL114",
+    "course_name": "Health and Fitness"
+  },
+  {
+    "BScIT2018": "GENL217",
+    "BScIT2023": "GENL118",
+    "course_name": "Understanding our Environment / Environmental Conservation"
+  },
+  {
+    "BScIT2018": "RELT113",
+    "BScIT2023": "GENL213",
+    "course_name": "Origins of Life"
+  },
+  {
+    "BScIT2018": "PSYC115",
+    "BScIT2023": "PSYC115",
+    "course_name": "General Psychology"
+  },
+  {
+    "BScIT2018": "EDUC115",
+    "BScIT2023": "EDUC115",
+    "course_name": "Introduction to Psychology"
+  },
+  {
+    "BScIT2018": "RELT150",
+    "BScIT2023": "GENL211",
+    "course_name": "Introduction Seventh-day Adventist Beliefs / Fundamentals of Christian Beliefs (SDA)"
+  },
+  {
+    "BScIT2018": "ENGL112",
+    "BScIT2023": "GENL214",
+    "course_name": "English Composition II  / College Writing II"
+  },
+  {
+    "BScIT2018": "RELB215",
+    "BScIT2023": "GENL216",
+    "course_name": "Ethical Models / Ethical Decision Making"
+  },
+  {
+    "BScIT2018": "GENL227",
+    "BScIT2023": "GENL227",
+    "course_name": "Thinking Critically on Current Issues"
+  },
+  {
+    "BScIT2018": "RELP312",
+    "BScIT2023": "GENL311",
+    "course_name": "Marriage and Family"
+  },
+  {
+    "BScIT2018": "MATH112",
+    "BScIT2023": "IT151",
+    "course_name": "Survey of Mathematics / Mathematics for Information Technology"
+  },
+  {
+    "BScIT2018": "CPTR114",
+    "BScIT2023": "GENL115",
+    "course_name": "Computer Concepts and App  / Info Tech Funda and App"
+  },
+  {
+    "BScIT2018": "GENL218",
+    "BScIT2023": "GENL218",
+    "course_name": "Cross Cultural Communication"
+  },
+  {
+    "BScIT2018": "ENGL111",
+    "BScIT2023": "GENL113",
+    "course_name": "English Composition I / College Writing I / Essay Writing"
+  },
+  {
+    "BScIT2018": "ENGL152",
+    "BScIT2023": "ENGL152",
+    "course_name": "Introduction to Reading Strategies"
+  },
+  {
+    "BScIT2018": "ENGL231",
+    "BScIT2023": "ENGL231",
+    "course_name": "Survey of British Literature"
+  },
+  {
+    "BScIT2018": "ENGL251",
+    "BScIT2023": "ENGL251",
+    "course_name": "Public Speaking"
+  },
+  {
+    "BScIT2018": "ENGL257",
+    "BScIT2023": "ENGL257",
+    "course_name": "Expository Writing"
+  },
+  {
+    "BScIT2018": "ENGL325",
+    "BScIT2023": "ENGL325",
+    "course_name": "Intro to Concepts & App of TESOL"
+  },
+  {
+    "BScIT2018": "ENGL347",
+    "BScIT2023": "ENGL347",
+    "course_name": "Contemporary Communication Theories"
+  },
+  {
+    "BScIT2018": "ENGL351",
+    "BScIT2023": "ENGL351",
+    "course_name": "News Writing"
+  },
+  {
+    "BScIT2018": "ENGL355",
+    "BScIT2023": "ENGL355",
+    "course_name": "Introduction to English Linguistics"
+  },
+  {
+    "BScIT2018": "ENGL391",
+    "BScIT2023": "ENGL391",
+    "course_name": "Research Skills"
+  },
+  {
+    "BScIT2018": "ACCT131",
+    "BScIT2023": "ACCT131",
+    "course_name": "Accounting Principles I"
+  },
+  {
+    "BScIT2018": "MNGT231",
+    "BScIT2023": "IT481",
+    "course_name": "Principles of Management"
+  },
+  {
+    "BScIT2018": "ACCT221",
+    "BScIT2023": "ACCT221",
+    "course_name": "Intermediate Accounting I"
+  },
+  {
+    "BScIT2018": "ECON233",
+    "BScIT2023": "ECON233",
+    "course_name": "Business Economics"
+  },
+  {
+    "BScIT2018": "IT460",
+    "BScIT2023": "IT424",
+    "course_name": "Electronic Business"
+  },
+  {
+    "BScIT2018": "MATH235",
+    "BScIT2023": "IT350",
+    "course_name": "Applied Statistics"
+  },
+  {
+    "BScIT2018": "ACCT321",
+    "BScIT2023": "ACCT321",
+    "course_name": "Advanced Accounting"
+  },
+  {
+    "BScIT2018": "ACCT347/ACCT468",
+    "BScIT2023": "ACCT347/ACCT468",
+    "course_name": "Accounting Software Packages"
+  },
+  {
+    "BScIT2018": "ACCT364",
+    "BScIT2023": "ACCT364",
+    "course_name": "Management Accounting"
+  },
+  {
+    "BScIT2018": "BUAD331",
+    "BScIT2023": "BUAD331",
+    "course_name": "Business Law"
+  },
+  {
+    "BScIT2018": "MKTG238",
+    "BScIT2023": "MKTG238",
+    "course_name": "Consumer Behavior"
+  },
+  {
+    "BScIT2018": "MNGT336",
+    "BScIT2023": "MNGT336",
+    "course_name": "Organizational Behavior"
+  },
+  {
+    "BScIT2018": "MNGT343",
+    "BScIT2023": "MNGT343",
+    "course_name": "Creativity and Innovation Management"
+  },
+  {
+    "BScIT2018": "MNGT378",
+    "BScIT2023": "IT369",
+    "course_name": "Project Management"
+  },
+  {
+    "BScIT2018": "ACCT463",
+    "BScIT2023": "ACCT463",
+    "course_name": "Financial Analysis & Reporting"
+  },
+  {
+    "BScIT2018": "ACCT467/IT461",
+    "BScIT2023": "ACCT467/IT461",
+    "course_name": "Accounting Information Systems"
+  },
+  {
+    "BScIT2018": "BUAD427",
+    "BScIT2023": "BUAD427",
+    "course_name": "Business Data Analytics"
+  },
+  {
+    "BScIT2018": "BUAD437",
+    "BScIT2023": "BUAD437",
+    "course_name": "Business Ethics"
+  },
+  {
+    "BScIT2018": "BUAD499",
+    "BScIT2023": "BUAD499",
+    "course_name": "Business Research Methods"
+  },
+  {
+    "BScIT2018": "MNGT447",
+    "BScIT2023": "MNGT447",
+    "course_name": "Logistic and Supply Chain Management"
+  },
+  {
+    "BScIT2018": "MNGT565/MNGT465",
+    "BScIT2023": "MNGT565/MNGT465",
+    "course_name": "Negotiation and Conflict Resolution"
+  },
+  {
+    "BScIT2018": "MNGT489",
+    "BScIT2023": "MNGT489",
+    "course_name": "Current Business Issues & New Skills Economy"
+  },
+  {
+    "BScIT2018": "EDUC121",
+    "BScIT2023": "EDUC121",
+    "course_name": "Language Arts for Elementary School Teachers"
+  },
+  {
+    "BScIT2018": "EDUC142",
+    "BScIT2023": "EDUC142",
+    "course_name": "Teachers and Learners' Well-being"
+  },
+  {
+    "BScIT2018": "EDUC237",
+    "BScIT2023": "EDUC237",
+    "course_name": "Innovation and Digital Tech for Learning"
+  },
+  {
+    "BScIT2018": "EDUC253",
+    "BScIT2023": "EDUC253",
+    "course_name": "Math. Competence for Elem. School Teachers"
+  },
+  {
+    "BScIT2018": "EDUC363",
+    "BScIT2023": "EDUC363",
+    "course_name": "Quality Assurance in Education"
+  },
+  {
+    "BScIT2018": "EDUC345",
+    "BScIT2023": "EDUC345",
+    "course_name": "Methods of Teaching Lang Arts"
+  },
+  {
+    "BScIT2018": "PSYC315",
+    "BScIT2023": "PSYC315",
+    "course_name": "Psychology of Exeptional Child"
+  },
+  {
+    "BScIT2018": "PSYC325",
+    "BScIT2023": "PSYC325",
+    "course_name": "Fund of Guidance and Counseling"
+  },
+  {
+    "BScIT2018": "EDUC443",
+    "BScIT2023": "EDUC443",
+    "course_name": "Methods of Teaching Science"
+  },
+  {
+    "BScIT2018": "EDUC447",
+    "BScIT2023": "EDUC447",
+    "course_name": "Methods of Teaching Bible and Religion"
+  },
+  {
+    "BScIT2018": "EDUC449",
+    "BScIT2023": "EDUC449",
+    "course_name": "Methods of Teaching Health and Fitness"
+  },
+  {
+    "BScIT2018": "EDUC461",
+    "BScIT2023": "EDUC461",
+    "course_name": "Elementary School Administration"
+  },
+  {
+    "BScIT2018": "EDUC471",
+    "BScIT2023": "EDUC471",
+    "course_name": "Current Issues and Trends in Elementary Education"
+  },
+  {
+    "BScIT2018": "RELB121",
+    "BScIT2023": "RELB121",
+    "course_name": "Biblical Greek 1"
+  },
+  {
+    "BScIT2018": "RELB170",
+    "BScIT2023": "RELB170",
+    "course_name": "The Law and Writings of the OT"
+  },
+  {
+    "BScIT2018": "RELB252/RELB451",
+    "BScIT2023": "RELB252/RELB451",
+    "course_name": "Hebrew Prophets II"
+  },
+  {
+    "BScIT2018": "RELM280/RELM380",
+    "BScIT2023": "RELM280/RELM380",
+    "course_name": "Religions of South-east Asia and the World"
+  },
+  {
+    "BScIT2018": "RELP223",
+    "BScIT2023": "RELP223",
+    "course_name": "Principles of Christian Mission"
+  },
+  {
+    "BScIT2018": "RELT271",
+    "BScIT2023": "RELT271",
+    "course_name": "Ministry and Message of Ellen G. White"
+  },
+  {
+    "BScIT2018": "RELB300/RELB331",
+    "BScIT2023": "RELB300/RELB331",
+    "course_name": "Biblical Hermeneutics"
+  },
+  {
+    "BScIT2018": "RELB321",
+    "BScIT2023": "RELB321",
+    "course_name": "Biblical Hebrew I"
+  },
+  {
+    "BScIT2018": "RELG324/RELG325",
+    "BScIT2023": "RELG324/RELG325",
+    "course_name": "Research Writing in Religion"
+  },
+  {
+    "BScIT2018": "RELP327",
+    "BScIT2023": "RELP327",
+    "course_name": "Homiletics I"
+  },
+  {
+    "BScIT2018": "RELB361/RELB190",
+    "BScIT2023": "RELB361/RELB190",
+    "course_name": "Survey of the Gospels"
+  },
+  {
+    "BScIT2018": "RELB421",
+    "BScIT2023": "RELB421",
+    "course_name": "Old Testament Apocalyptic Writing"
+  },
+  {
+    "BScIT2018": "RELB466",
+    "BScIT2023": "RELB466",
+    "course_name": "New Testament Epistles"
+  },
+  {
+    "BScIT2018": "RELB252/RELB451",
+    "BScIT2023": "RELB252/RELB451",
+    "course_name": "Hebrew Prophets II"
+  },
+  {
+    "BScIT2018": "RELT457",
+    "BScIT2023": "RELT457",
+    "course_name": "Systematic Theology I"
+  },
+  {
+    "BScIT2018": "BIOL131",
+    "BScIT2023": "BIOL131",
+    "course_name": "General Biology I"
+  },
+  {
+    "BScIT2018": "CHEM121",
+    "BScIT2023": "CHEM121",
+    "course_name": "Chemistry for Health Professions I"
+  },
+  {
+    "BScIT2018": "CHEM141",
+    "BScIT2023": "CHEM141",
+    "course_name": "General Chemistry I"
+  },
+  {
+    "BScIT2018": "MATH121",
+    "BScIT2023": "MATH121",
+    "course_name": "Applied Mathematics for Biociences I"
+  },
+  {
+    "BScIT2018": "BIOL385",
+    "BScIT2023": "BIOL385",
+    "course_name": "General Ecology"
+  },
+  {
+    "BScIT2018": "BIOL261/PUHE261/CNSC121",
+    "BScIT2023": "BIOL261/PUHE261/CNSC121",
+    "course_name": "Anatomy and Physiology I"
+  },
+  {
+    "BScIT2018": "BIOL281",
+    "BScIT2023": "BIOL281",
+    "course_name": "Principles of Epidemiology"
+  },
+  {
+    "BScIT2018": "CHEM241",
+    "BScIT2023": "CHEM241",
+    "course_name": "Organic Chemistry I"
+  },
+  {
+    "BScIT2018": "PUHE221",
+    "BScIT2023": "PUHE221",
+    "course_name": "Community Gardening"
+  },
+  {
+    "BScIT2018": "PUHE243",
+    "BScIT2023": "PUHE243",
+    "course_name": "Introduction to Public Health"
+  },
+  {
+    "BScIT2018": "PUHE248",
+    "BScIT2023": "PUHE248",
+    "course_name": "Natural Remedies"
+  },
+  {
+    "BScIT2018": "MATH241",
+    "BScIT2023": "MATH241",
+    "course_name": "Mathematics for Life / Calculus I"
+  },
+  {
+    "BScIT2018": "BIOL321",
+    "BScIT2023": "BIOL321",
+    "course_name": "Cell and Molecular Biology"
+  },
+  {
+    "BScIT2018": "BIOL333",
+    "BScIT2023": "BIOL333",
+    "course_name": "Biostatistics"
+  },
+  {
+    "BScIT2018": "BIOL345",
+    "BScIT2023": "BIOL345",
+    "course_name": "Introduction to Clinical Pharmacology"
+  },
+  {
+    "BScIT2018": "BIOL382",
+    "BScIT2023": "BIOL382",
+    "course_name": "Biodiversity and Systematic Biology"
+  },
+  {
+    "BScIT2018": "BIOL385",
+    "BScIT2023": "BIOL385",
+    "course_name": "General Ecology"
+  },
+  {
+    "BScIT2018": "CHEM361",
+    "BScIT2023": "CHEM361",
+    "course_name": "Biochemistry"
+  },
+  {
+    "BScIT2018": "PHYS231/PHYS331",
+    "BScIT2023": "PHYS231/PHYS331",
+    "course_name": "General Physics I"
+  },
+  {
+    "BScIT2018": "PUHE329",
+    "BScIT2023": "PUHE329",
+    "course_name": "Planning and Evaluation"
+  },
+  {
+    "BScIT2018": "PUHE381",
+    "BScIT2023": "PUHE381",
+    "course_name": "Public Health Communication"
+  },
+  {
+    "BScIT2018": "BIOL422",
+    "BScIT2023": "BIOL422",
+    "course_name": "Molecular Biology Techniques"
+  },
+  {
+    "BScIT2018": "BIOL475",
+    "BScIT2023": "BIOL475",
+    "course_name": "Directed Research"
+  },
+  {
+    "BScIT2018": "BIOL421",
+    "BScIT2023": "BIOL421",
+    "course_name": "Introduction to Virology"
+  },
+  {
+    "BScIT2018": "BIOL461",
+    "BScIT2023": "BIOL461",
+    "course_name": "Parasitology"
+  },
+  {
+    "BScIT2018": "IT153",
+    "BScIT2023": "IT153",
+    "course_name": "Introduction to Computing"
+  },
+  {
+    "BScIT2018": "IT251",
+    "BScIT2023": "IT241",
+    "course_name": "Database Design"
+  },
+  {
+    "BScIT2018": "IT295",
+    "BScIT2023": "IT243",
+    "course_name": "Computing Platform Technology"
+  },
+  {
+    "BScIT2018": "IT232",
+    "BScIT2023": "IT245",
+    "course_name": "Object Oriented Programming"
+  },
+  {
+    "BScIT2018": "IT333",
+    "BScIT2023": "IT264",
+    "course_name": "Data Structures and Algorithms"
+  },
+  {
+    "BScIT2018": "IT341",
+    "BScIT2023": "IT367",
+    "course_name": "Web Applications Development"
+  },
+  {
+    "BScIT2018": "IT325",
+    "BScIT2023": "IT321",
+    "course_name": "Linux System"
+  },
+  {
+    "BScIT2018": "IT242",
+    "BScIT2023": "IT363",
+    "course_name": "Front-end Web Development"
+  },
+  {
+    "BScIT2018": "IT240",
+    "BScIT2023": "IT365",
+    "course_name": "Systems Analysis and Design"
+  },
+  {
+    "BScIT2018": "IT371",
+    "BScIT2023": "IT268",
+    "course_name": "Social Issues and Ethics for IT professionals"
+  },
+  {
+    "BScIT2018": "IT383",
+    "BScIT2023": "IT325",
+    "course_name": "Network Design and Administration"
+  },
+  {
+    "BScIT2018": "IT424",
+    "BScIT2023": "IT422",
+    "course_name": "Big Data"
+  },
+  {
+    "BScIT2018": "IT384",
+    "BScIT2023": "IT483",
+    "course_name": "Information Systems Security"
+  },
+  {
+    "BScIT2018": "CNSC125",
+    "BScIT2023": "CNSC125",
+    "course_name": "Science for the Health Professions"
+  },
+  {
+    "BScIT2018": "CNSC221",
+    "BScIT2023": "CNSC221",
+    "course_name": "Pharmacology"
+  },
+  {
+    "BScIT2018": "NSSC231",
+    "BScIT2023": "NSSC231",
+    "course_name": "Fundamentals of Nursing"
+  },
+  {
+    "BScIT2018": "GENL081",
+    "BScIT2023": "GENL081",
+    "course_name": "Foundations of College Mathematics"
+  }
 ]
