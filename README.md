@@ -9,5 +9,5 @@ Application to generate projected student course registration for future semeste
 - [x] Encode summer course offering. 
 - [x] Encode 2018 curriculum.
 - [x] Encode 2023 curriculum. 
-- [ ] Encode advisees' data. 
+- [x] Encode advisees' data. 
 - [ ] Execute forecast.

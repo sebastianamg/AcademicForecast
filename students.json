@@ -1,23 +1,2158 @@
 {
-    "202300123": {
-        "curriculum": "BScIT2023",
+    "202200126": {
+        "curriculum": "BScIT2018",
         "courses": {
+            "GENL101": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL115": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "D+"
+            },
+            "GENL116": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B"
+            },
+            "GENL117": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "A"
+            },
+            "RELT113": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "B+"
+            },
+            "ACCT131": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B"
+            },
             "IT153": {
                 "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "GENL112": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "GENL218": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "GENL118": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT151": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B"
+            },
+            "IT122": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C+"
+            },
+            "IT126": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B+"
+            },
+            "IT274": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B+"
+            }
+        }
+    },
+    "202200136": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "EDUC111": {
+                "year": "2022-2023",
                 "semester": "1",
+                "grade": "A"
+            },
+            "ENGL111": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C"
+            },
+            "HLED117": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "MATH081": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "S"
+            },
+            "RELH271": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "B"
+            },
+            "RELT150": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "CPTR114": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B"
+            },
+            "GENL112": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL113": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL115": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "D+"
+            },
+            "GENL116": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "IT251": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "IT295": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "MATH235": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C"
+            },
+            "MNGT131": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT232": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT242": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT274": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT325": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "D+"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "D+"
+            },
+            "IT352": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C"
+            },
+            "IT282": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "D"
+            },
+            "IT326": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B"
+            },
+            "IT345": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "F"
+            },
+            "IT463": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C"
+            },
+            "IT468": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C+"
+            },
+            "MUSC275": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "GENL312": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "A"
+            },
+            "IT364": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "A"
+            }
+        }
+    },
+    "202200142": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "ENGL111": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "GENL101": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL115": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "HLED117": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "MATH081": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "S"
+            },
+            "RELT113": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "CPTR114": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL112": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "D+"
+            },
+            "GENL113": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "F"
+            },
+            "GENL116": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B"
+            },
+            "RELT150": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "I"
+            },
+            "IT251": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D"
+            },
+            "IT295": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "F"
+            },
+            "MATH235": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "F"
+            },
+            "MNGT131": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT245": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "D+"
+            },
+            "IT274": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT363": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT364": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "A"
+            },
+            "ENGL251": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT240": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "D+"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "F"
+            },
+            "IT352": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT282": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B"
+            },
+            "IT345": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "F"
+            },
+            "IT368": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT424": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C+"
+            },
+            "IT468": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "GENL312": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "B+"
+            },
+            "IT483": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "IP"
+            }
+        }
+    },
+    "202200154": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "ENGL111": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C"
+            },
+            "GENL101": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL103": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "MATH081": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "S"
+            },
+            "PSYC115": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C"
+            },
+            "RELH271": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "CPTR114": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL112": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL113": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "MUSC211": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "RELT150": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL117": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "B"
+            },
+            "IT364": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "B+"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "IT251": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT295": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C"
+            },
+            "MATH235": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "MNGT131": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT232": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT242": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT272": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT274": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C"
+            },
+            "IT352": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B"
+            },
+            "IT365": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B"
+            },
+            "MNGT377": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C"
+            }
+        }
+    },
+    "202200177": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "GENL101": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL103": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "GENL111": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "B"
+            },
+            "GENL115": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "GENL117": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "MATH081": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "S"
+            },
+            "CPTR114": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C"
+            },
+            "GENL112": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL113": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL116": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "RELT150": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT251": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B+"
+            },
+            "IT295": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "MATH235": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "MNGT131": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT232": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT242": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT274": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT364": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "A"
+            },
+            "ENGL251": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B"
+            },
+            "IT240": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B+"
+            },
+            "IT352": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "MNGT378": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B+"
+            },
+            "IT345": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT368": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT424": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B+"
+            },
+            "IT468": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "MUSC207": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "GENL312": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "B+"
+            }
+        }
+    },
+    "202200178": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "GENL101": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL103": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C"
+            },
+            "GENL111": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "GENL116": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "B"
+            },
+            "GENL117": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C"
+            },
+            "MATH081": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "S"
+            },
+            "CPTR114": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "D+"
+            },
+            "GENL112": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B"
+            },
+            "GENL113": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL115": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C"
+            },
+            "IT242": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL213": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "IT240": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C"
+            },
+            "IT251": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "MNGT131": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "GENL312": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT232": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT274": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "GENL110": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "S"
+            },
+            "IT364": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "B"
+            },
+            "IT325": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B+"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C"
+            },
+            "IT352": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT282": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C"
+            },
+            "IT326": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C+"
+            },
+            "IT424": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B"
+            },
+            "IT447": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B+"
+            },
+            "IT468": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT423": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "C+"
+            }
+        }
+    },
+    "202200185": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "ENGL3256": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "B"
+            },
+            "GENL101": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL115": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "C"
+            },
+            "GENL117": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "B"
+            },
+            "MATH081": {
+                "year": "2022-2023",
+                "semester": "1",
+                "grade": "S"
+            },
+            "CPTR114": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL111": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B"
+            },
+            "GENL113": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL116": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "RELT150": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "IT364": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "A"
+            },
+            "MATH120": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "C+"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C"
+            },
+            "IT240": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C"
+            },
+            "IT251": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C"
+            },
+            "IT295": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "MATH235": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "D+"
+            },
+            "IT232": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT242": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT274": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "D+"
+            },
+            "IT325": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "D"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C"
+            },
+            "IT352": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C"
+            },
+            "IT282": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C+"
+            },
+            "IT326": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C+"
+            },
+            "IT345": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "W"
+            },
+            "IT447": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B+"
+            },
+            "IT463": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "D+"
+            },
+            "RELT113": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "C+"
+            }
+        }
+    },
+    "202200246": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "CPTR114": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B"
+            },
+            "GENL101": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL111": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL113": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL116": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "RELT150": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL117": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "W"
+            },
+            "IT364": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "B+"
+            },
+            "GENL112": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B"
+            },
+            "GENL118": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B"
+            },
+            "GENL213": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B+"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "IT251": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "BIOL152": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT245": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT363": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT463": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT423": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "C+"
+            },
+            "IT295": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C+"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B+"
+            },
+            "MATH235": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B+"
+            },
+            "MATH241": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "C"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C+"
+            },
+            "IT345": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C"
+            },
+            "IT468": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT485": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "IP"
+            }
+        }
+    },
+    "202200254": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "GENL101": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL111": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C"
+            },
+            "IT232": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "F"
+            },
+            "IT272": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "C"
+            },
+            "MATH081": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "S"
+            },
+            "RELB116": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL103": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B+"
+            },
+            "GENL115": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "IT295": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "D+"
+            },
+            "MATH235": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "W"
+            },
+            "RELH271": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "Au"
+            },
+            "IT384": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT445": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "W"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "W"
+            },
+            "GENL112": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B+"
+            },
+            "GENL117": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "Au"
+            },
+            "GENL312": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "B"
+            }
+        }
+    },
+    "202200272": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "CPTR114": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL116": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT325": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "B"
+            },
+            "MUSC211": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "RELT150": {
+                "year": "2022-2023",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT364": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "A"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT121": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT151": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT295": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "MUSC212": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT245": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT363": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "A"
+            },
+            "MUSC270": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "A"
+            },
+            "MUSC381": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "A"
+            },
+            "GENL117": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "A"
+            },
+            "GENL215": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B"
+            },
+            "IT153": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT247": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT365": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "MATH235": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "MNGT377": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT366": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT368": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT480": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "MUSC361": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B+"
+            },
+            "MUSC370": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT421": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "A"
+            }
+        }
+    },
+    "202200292": {
+        "curriculum": "BScIT2018",
+        "courses": {
+            "GENL103": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "B+"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL117": {
+                "year": "2022-2023",
+                "semester": "3",
+                "grade": "B+"
+            },
+            "GENL101": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL116": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL118": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL211": {
+                "year": "2023-2024",
+                "semester": "4",
+                "grade": "B"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "A"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "GENL215": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "ENGL237": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "A"
+            },
+            "IT364": {
+                "year": "2023-2024",
+                "semester": "6",
+                "grade": "C+"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "7",
                 "grade": "B+"
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "2",
-                "grade": "D"
+                "semester": "7",
+                "grade": "A"
+            },
+            "IT247": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B"
+            },
+            "IT365": {
+                "year": "2024-2025",
+                "semester": "7",
+                "grade": "B+"
+            },
+            "ENGL262": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "C"
+            },
+            "IT242": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "B"
+            },
+            "IT274": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "IT282": {
+                "year": "2024-2025",
+                "semester": "8",
+                "grade": "A"
+            },
+            "GENL312": {
+                "year": "2024-2025",
+                "semester": "9",
+                "grade": "B+"
             }
         }
     },
-    "202300321": {
+    "202300153": {
         "curriculum": "BScIT2023",
         "courses": {
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT121": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "IT151": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "IT153": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "D+"
+            },
+            "GENL215": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL117": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "F"
+            },
+            "IT364": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "C+"
+            },
+            "GENL213": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "GENL217": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "W"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B+"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT242": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT274": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            }
+        }
+    },
+    "202300154": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL081": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "S"
+            },
+            "GENL117": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "B+"
+            },
+            "GENL111": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL113": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL114": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT153": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "MNGT131": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "GENL214": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "GENL215": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT122": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT124": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT126": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "GENL213": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "A"
+            }
+        }
+    },
+    "202300155": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT151": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT153": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "MNGT131": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL215": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL117": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL217": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT247": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT126": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "GENL311": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "A"
+            },
+            "RELT350": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "A"
+            }
+        }
+    },
+    "202300158": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL081": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "S"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL116": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "GENL118": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C"
+            },
+            "IT153": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C"
+            },
             "GENL101": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B"
+            },
+            "IT151": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "GENL117": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "MNGT131": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT126": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "D+"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT366": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "GENL311": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "B+"
+            },
+            "RELT113": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "B+"
+            }
+        }
+    },
+    "202300181": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT121": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "IT151": {
                 "year": "2023-2024",
                 "semester": "1",
                 "grade": "A"
@@ -26,8 +2161,887 @@
                 "year": "2023-2024",
                 "semester": "1",
                 "grade": "C"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL215": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL117": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "A"
+            },
+            "GENL211": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "B+"
+            },
+            "GENL213": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B+"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C"
+            },
+            "IT247": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT126": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C+"
+            }
+        }
+    },
+    "202300188": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL081": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "S"
+            },
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "GENL118": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "D+"
+            },
+            "IT153": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "D+"
+            },
+            "MUSC270": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C"
+            },
+            "IT151": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "D"
+            },
+            "GENL217": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "D"
+            },
+            "IT295": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C"
+            },
+            "MNGT131": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "D+"
+            },
+            "IT126": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "D+"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C"
+            }
+        }
+    },
+    "202300203": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL081": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "S"
+            },
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL118": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "IT153": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "IT151": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL117": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "A"
+            },
+            "GENL213": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "B"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT247": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "MNGT131": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT126": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT421": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "A"
+            }
+        }
+    },
+    "202300206": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT121": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "IT151": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "IT153": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL215": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL117": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "B+"
+            },
+            "GENL213": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C"
+            },
+            "IT364": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "B+"
+            },
+            "GENL217": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "IT365": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "D+"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT366": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C"
+            },
+            "GENL311": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "B"
+            }
+        }
+    },
+    "202300210": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT121": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT151": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT153": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "B+"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL215": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL117": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "A"
+            },
+            "IT364": {
+                "year": "2023-2024",
+                "semester": "3",
+                "grade": "A"
+            },
+            "GENL213": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B+"
+            },
+            "IT247": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT282": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT366": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "GENL312": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "A"
+            }
+        }
+    },
+    "202300211": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL111": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "GENL114": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT151": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "IT153": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "MNGT131": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "A"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL119": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL214": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "B+"
+            },
+            "GENL215": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT122": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "A"
+            },
+            "GENL117": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL217": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT241": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B+"
+            },
+            "IT243": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B"
+            },
+            "IT247": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "A"
+            },
+            "GENL116": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT126": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT252": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "C+"
+            },
+            "IT262": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT363": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT421": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "B"
+            },
+            "RELT350": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "B+"
+            }
+        }
+    },
+    "202300212": {
+        "curriculum": "BScIT2023",
+        "courses": {
+            "GENL117": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C+"
+            },
+            "IT231": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "D+"
+            },
+            "IT240": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C"
+            },
+            "IT251": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C"
+            },
+            "IT295": {
+                "year": "2023-2024",
+                "semester": "1",
+                "grade": "C"
+            },
+            "BUAD234": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C"
+            },
+            "CPTR114": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "T"
+            },
+            "FREEELEC": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "T"
+            },
+            "GE": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "T"
+            },
+            "GENL113": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "HMNT210": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "T"
+            },
+            "IT124": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C"
+            },
+            "IT242": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "IT274": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "C+"
+            },
+            "MATH112": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "T"
+            },
+            "MNGT131": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "T"
+            },
+            "RELT150": {
+                "year": "2023-2024",
+                "semester": "2",
+                "grade": "T"
+            },
+            "IT245": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "IT325": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "IT333": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C"
+            },
+            "IT341": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "B+"
+            },
+            "IT352": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "C+"
+            },
+            "MATH235": {
+                "year": "2024-2025",
+                "semester": "4",
+                "grade": "CE"
+            },
+            "ACCT131": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "T"
+            },
+            "ENGL112": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "CE"
+            },
+            "IT282": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT345": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B+"
+            },
+            "IT447": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT468": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "A"
+            },
+            "IT480": {
+                "year": "2024-2025",
+                "semester": "5",
+                "grade": "B"
+            },
+            "IT483": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "IP"
+            },
+            "IT485": {
+                "year": "2024-2025",
+                "semester": "6",
+                "grade": "S"
             }
         }
     }
 }
-
