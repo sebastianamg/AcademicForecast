@@ -3,7 +3,7 @@
     "course_names": "Orientation to Higher Education / Essential Skills for Higher Education",
     "BScIT2018": "EDUC111",
     "BScIT2023": "GENL111",
-    "default": ""
+    "default": "GENL101"
   },
   "2":{
     "course_names": "Living Like Jesus in the Modern World / Life and Teachings of Jesus",
@@ -702,10 +702,10 @@
     "default": "NSSC231"
   },
   "118":{
-    "course_names": "Foundations of College Mathematics",
+    "course_names": "Foundations of College Mathematics / Intermediate Algebra",
     "BScIT2018": "",
     "BScIT2023": "",
-    "default": "GENL081"
+    "default": "GENL081/MATH081"
   },
   "119":{
     "course_names": "Holistic Health and Wellness  ",
@@ -1720,5 +1720,29 @@
     "BScIT2018": "IT422",
     "BScIT2023": "",
     "default": ""
+  },
+  "396":{
+    "course_names": "Understand Self and Society",
+    "BScIT2018": "",
+    "BScIT2023": "",
+    "default": "GENL119"
+  },
+  "397":{
+    "course_names": "Fundamentals of Music Education",
+    "BScIT2018": "",
+    "BScIT2023": "",
+    "default": "MUSC361"
+  },
+  "398":{
+    "course_names": "Piano Pedagogy & Practicum",
+    "BScIT2018": "",
+    "BScIT2023": "",
+    "default": "MUSC370"
+  },
+  "399":{
+    "course_names": "Biblical Theology",
+    "BScIT2018": "",
+    "BScIT2023": "",
+    "default": "RELT350"
   }
 }
