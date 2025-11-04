@@ -9,93 +9,99 @@
         {
             "choice": {
                 "placeholder": "Humanities-1",
-                "courses": ["RELB215","RELH271"]
+                "courses": [
+                    {"course": "RELB215", "pre": [], "name": "Ethical Models / Ethical Decision Making"},
+                    {"course": "RELH271", "pre": [], "name": "Adventist Heritage and Mission"}
+                ]
             },
-            "pre": [],
             "pg": "D",
-            "semester": 1, 
-            "name": ["Ethical Models / Ethical Decision Making", ]
+            "semester": 1
         },
         {
             "choice": {
                 "placeholder": "Humanities-2",
-                "courses": ["RELT113","RELT213"]
+                "courses": [
+                    {"course": "RELT113", "pre": [], "name": "Origins of Life"},
+                    {"course": "RELT213", "pre": [], "name": "Human Destiny"}
+                ]
             },
-            "pre": [],
             "pg": "D",
-            "semester": 1, 
-            "name": ["Origins of Life", ]
+            "semester": 1
         },
         {"course": "CPTR114", "pre": [], "pg": "D+", "semester": 2, "name": "Computer Concepts and App  / Info Tech Funda and App"},
-        {"course": "BUAD234", "pre": [], "pg": "D+", "semester": 2, "name": ""},
+        {"course": "BUAD234", "pre": [], "pg": "D+", "semester": 2, "name": "Communication for Business"},
         {"course": "ENGL112", "pre": [], "pg": "D", "semester": 2, "name": "English Composition II  / College Writing II"},
         {"course": "MATH112", "pre": [], "pg": "D", "semester": 2, "name": "Survey of Mathematics / Mathematics for Information Technology"},
         {
             "choice": {
                 "placeholder": "Humanities-3",
-                "courses": ["RELB116","RELT150"]
+                "courses": [
+                    {"course": "RELB116", "pre": [], "name": "Living Like Jesus in the Modern World / Life and Teachings of Jesus"},
+                    {"course": "RELT150", "pre": [], "name": "Introduction Seventh-day Adventist Beliefs / Fundamentals of Christian Beliefs (SDA)"}
+                ]
             },
-            "pre": [],
             "pg": "D",
-            "semester": 2, 
-            "name": ["Living Like Jesus in the Modern World / Life and Teachings of Jesus","Introduction Seventh-day Adventist Beliefs / Fundamentals of Christian Beliefs (SDA)"]
+            "semester": 2
         },
         {
             "choice": {
                 "placeholder": "Humanities-4",
-                "courses": ["HIST212","HIST213","HMNT210","HMNT216"]
+                "courses": [
+                    {"course": "HIST212", "pre": [], "name": "Introduction to History of Western Civilization"},
+                    {"course": "HIST213", "pre": [], "name": "Introduction to History of Eastern Civilization"},
+                    {"course": "HMNT210", "pre": [], "name": "Appreciation of Fine Arts"},
+                    {"course": "HMNT216", "pre": [], "name": "Conversational Thai I"}
+                ]
             },
-            "pre": [],
             "pg": "D",
-            "semester": 2, 
-            "name": ["","","","Conversational Thai I"]
+            "semester": 2
         },
-        {"course": "IT231", "pre": ["CPTR114"], "pg": "D+", "semester": 4, "name": ""},
+        {"course": "IT231", "pre": ["CPTR114"], "pg": "D+", "semester": 4, "name": "Essential of Computer Programming"},
         {"course": "IT251", "pre": ["CPTR114"], "pg": "D+", "semester": 4, "name": "Database Design"},
         {"course": "IT295", "pre": [], "pg": "D+", "semester": 4, "name": "Computing Platform Technology"},
         {"course": "MATH235", "pre": [], "pg": "D+", "semester": 4, "name": "Applied Statistics"},
         {"course": "MNGT231", "pre": [], "pg": "D+", "semester": 4, "name": "Principles of Management"},
         {"course": "IT232", "pre": ["IT231"], "pg": "D+", "semester": 5, "name": "Object Oriented Programming"},
-        {"course": "IT282", "pre": ["CPTR114"], "pg": "C", "semester": 5, "name": ""},
-        {"course": "IT272", "pre": [], "pg": "D+", "semester": 5, "name": ""},
+        {"course": "IT282", "pre": ["CPTR114"], "pg": "C", "semester": 5, "name": "Networking and Data Communications "},
+        {"course": "IT272", "pre": [], "pg": "D+", "semester": 5, "name": "Human-Computer Interaction  "},
         {"course": "IT242", "pre": ["CPTR114"], "pg": "C", "semester": 5, "name": "Front-end Web Development"},
-        {"course": "IT274", "pre": [], "pg": "D+", "semester": 5, "name": ""},
+        {"course": "IT274", "pre": [], "pg": "D+", "semester": 5, "name": "Management Information Systems"},
         {"course": "IT240", "pre": ["CPTR114"], "pg": "C", "semester": 6, "name": "Systems Analysis and Design"},
         {"course": "IT333", "pre": ["IT232"], "pg": "D+", "semester": 7, "name": "Data Structures and Algorithms"},
         {"course": "IT383", "pre": ["IT282"], "pg": "C", "semester": 7, "name": "Network Design and Administration"},
         {"course": "IT341", "pre": ["IT242","IT231"], "pg": "C", "semester": 7, "name": "Web Applications Development"},
         {"course": "IT371", "pre": [], "pg": "D+", "semester": 7, "name": "Social Issues and Ethics for IT professionals"},
         {"course": "IT384", "pre": ["IT282"], "pg": "C", "semester": 8, "name": "Information Systems Security"},
-        {"course": "IT352", "pre": ["IT251","IT231"], "pg": "D+", "semester": 8, "name": ""},
+        {"course": "IT352", "pre": ["IT251","IT231"], "pg": "D+", "semester": 8, "name": "Database Administration and Applications"},
         {"course": "MNGT378", "pre": [], "pg": "D+", "semester": 8, "name": "Project Management"},
         {"course": "RELP312", "pre": [], "pg": "D", "semester": 8, "name": "Marriage and Family"},
-        {"course": "IT447", "pre": [], "pg": "C", "semester": 10, "name": ""},
+        {"course": "IT447", "pre": [], "pg": "C", "semester": 10, "name": "Software Engineering"},
         {"course": "IT483", "pre": [], "pg": "C", "semester": 10, "name": "Information Systems Security"},
-        {"course": "IT468", "pre": [], "pg": "C", "semester": 11, "name": ""},
-        {"course": "IT484", "pre": ["IT483"], "pg": "C", "semester": 11, "name": ""}
+        {"course": "IT468", "pre": [], "pg": "C", "semester": 11, "name": "Information Resource Management "},
+        {"course": "IT484", "pre": ["IT483"], "pg": "C", "semester": 11, "name": "Systems Development Project II / Capstone Project II"}
     ],
     "major_electives": {
         "pg": "C",
         "courses": [
             {"course": "ACCT131", "pre": [], "name": "Accounting Principles I"},
-            {"course": "IT323", "pre": [], "name": ""},
+            {"course": "IT323", "pre": [], "name": "User Interface Design"},
             {"course": "IT325", "pre": [], "name": "Linux System"},
-            {"course": "IT326", "pre": ["IT232"], "name": ""},
-            {"course": "IT327", "pre": [], "name": ""},
-            {"course": "IT328", "pre": ["IT232"], "name": ""},
-            {"course": "IT343", "pre": ["IT232"], "name": ""},
-            {"course": "IT345", "pre": ["IT232"], "name": ""},
-            {"course": "IT347", "pre": ["IT232"], "name": ""},
-            {"course": "IT364", "pre": [], "name": ""},
-            {"course": "IT421", "pre": [], "name": ""},
-            {"course": "IT422", "pre": [], "name": "Big Data"},
-            {"course": "IT423", "pre": ["IT251"], "name": ""},
+            {"course": "IT326", "pre": ["IT232"], "name": "Cloud Computing"},
+            {"course": "IT327", "pre": [], "name": "Internet of Things"},
+            {"course": "IT328", "pre": ["IT232"], "name": "Web Services Technology"},
+            {"course": "IT343", "pre": ["IT232"], "name": "Visual Programming"},
+            {"course": "IT345", "pre": ["IT232"], "name": "Application Development for Mobile Devices / Mobile Application Development"},
+            {"course": "IT347", "pre": ["IT232"], "name": "Games Programming"},
+            {"course": "IT364", "pre": [], "name": "Content Management Systems"},
+            {"course": "IT421", "pre": [], "name": "Computer Graphics Design"},
+            {"course": "IT422", "pre": [], "name": "Digital Media Production"},
+            {"course": "IT423", "pre": ["IT251"], "name": "Business Intelligence & Data Mining"},
             {"course": "IT424", "pre": ["IT251"], "name": "Big Data"},
-            {"course": "IT445", "pre": [], "name": ""},
+            {"course": "IT445", "pre": [], "name": "Artificial Intelligence"},
             {"course": "IT460", "pre": ["IT240"], "name": "Electronic Business"},
             {"course": "IT461", "pre": ["ACCT132"], "name": "Accounting Information Systems"},
-            {"course": "IT463", "pre": [], "name": ""},
-            {"course": "IT480", "pre": [], "name": ""},
+            {"course": "IT463", "pre": [], "name": "Information Technology Entrepreneurship"},
+            {"course": "IT480", "pre": [], "name": "Emerging Topics in IT "},
             {"course": "IT485", "pre": [], "name": ""}
         ],
         "slots": [

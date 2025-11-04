@@ -2,82 +2,83 @@
     "curriculum_name": "BScIT2023",
     "courses": [
 
-        {"course": "GENL111", "pre": [], "pg": "D", "semester": 1},
-        {"course": "GENL113", "pre": [], "pg": "D", "semester": 1},
-        {"course": "GENL114", "pre": [], "pg": "D", "semester": 1},
-        {"course": "IT151", "pre": [], "pg": "D+", "semester": 1},
-        {"course": "IT153", "pre": [], "pg": "D+", "semester": 1},
-        {"course": "IT481", "pre": [], "pg": "C", "semester": 1},
+        {"course": "GENL111", "pre": [], "pg": "D", "semester": 1, "name": "Orientation to Higher Education / Essential Skills for Higher Education"},
+        {"course": "GENL113", "pre": [], "pg": "D", "semester": 1, "name": "English Composition I / College Writing I / Essay Writing"},
+        {"course": "GENL115", "pre": [], "pg": "D", "semester": 1, "name": "Computer Concepts and App  / Info Tech Funda and App"},
+        {"course": "GENL114", "pre": [], "pg": "D", "semester": 1, "name": "Health and Fitness"},
+        {"course": "IT151", "pre": [], "pg": "D+", "semester": 1, "name": "Survey of Mathematics / Mathematics for Information Technology"},
+        {"course": "IT153", "pre": [], "pg": "D+", "semester": 1, "name": "Introduction to Computing"},
+        {"course": "IT481", "pre": [], "pg": "C", "semester": 1, "name": "Principles of Management"},
 
-        {"course": "GENL116", "pre": [], "pg": "D", "semester": 2},
-        {"course": "GENL117", "pre": [], "pg": "D", "semester": 2},
-        {"course": "GENL118", "pre": [], "pg": "D", "semester": 2},
-        {"course": "IT122", "pre": ["IT153"], "pg": "C", "semester": 2},
-        {"course": "IT124", "pre": [], "pg": "C", "semester": 2},
-        {"course": "IT123", "pre": [], "pg": "C", "semester": 2},
+        {"course": "GENL116", "pre": [], "pg": "D", "semester": 2, "name": "Living Like Jesus in the Modern World / Life and Teachings of Jesus"},
+        {"course": "GENL118", "pre": [], "pg": "D", "semester": 2, "name": "Understanding our Environment / Environmental Conservation"},
+        {"course": "IT122", "pre": ["IT153"], "pg": "C", "semester": 2, "name": "Essential of Computer Programming"},
+        {"course": "IT124", "pre": [], "pg": "C", "semester": 2, "name": "Human-Computer Interaction  "},
+        {"course": "IT123", "pre": [], "pg": "C", "semester": 2, "name": "Content Management Systems"},
 
-        {"course": "GENL217", "pre": [], "pg": "C", "semester": 4},
-        {"course": "IT243", "pre": [], "pg": "C", "semester": 4},
-        {"course": "IT245", "pre": ["IT122"], "pg": "C", "semester": 4},
-        {"course": "IT247", "pre": ["IT245"], "pg": "C", "semester": 4},
+        {"course": "IT243", "pre": [], "pg": "C", "semester": 4, "name": "Computing Platform Technology"},
+        {"course": "IT245", "pre": ["IT122"], "pg": "C", "semester": 4, "name": "Object Oriented Programming"},
         {
             "choice": {
                 "placeholder": "Humanities 1",
-                "courses": ["GENL211","GENL213"]
+                "courses": [
+                    {"course": "GENL211", "pre": [], "name": "Introduction Seventh-day Adventist Beliefs / Fundamentals of Christian Beliefs (SDA)"},
+                    {"course": "GENL213", "pre": [], "name": "Origins of Life"}
+                ]
             },
-            "pre": [],
             "pg": "D",
             "semester": 4
         },
 
-        {"course": "GENL214", "pre": [], "pg": "D", "semester": 5},
-        {"course": "GENL216", "pre": [], "pg": "D", "semester": 5},
-        {"course": "IT241", "pre": ["IT153"], "pg": "C", "semester": 5},
-        {"course": "IT252", "pre": [], "pg": "D+", "semester": 5},
-        {"course": "IT262", "pre": ["IT153"], "pg": "C", "semester": 5},
+        {"course": "GENL214", "pre": [], "pg": "D", "semester": 5, "name": "English Composition II  / College Writing II"},
+        {"course": "GENL216", "pre": [], "pg": "D", "semester": 5, "name": "Ethical Models / Ethical Decision Making"},
+        {"course": "IT241", "pre": ["IT153"], "pg": "C", "semester": 5, "name": "Database Design"},
+        {"course": "IT252", "pre": [], "pg": "D+", "semester": 5, "name": "Discrete Mathematics."},
+        {"course": "IT262", "pre": ["IT153"], "pg": "C", "semester": 5, "name": "Networking and Data Communications"},
+        {"course": "IT264", "pre": ["IT245"], "pg": "C", "semester": 5, "name": "Data Structures and Algorithms"},
 
-        {"course": "IT268", "pre": [], "pg": "C", "semester": 6},
+        {"course": "IT268", "pre": [], "pg": "C", "semester": 6, "name": "Social Issues and Ethics for IT professionals"},
         
-        {"course": "GENL311", "pre": [], "pg": "D", "semester": 7},
-        {"course": "IT363", "pre": ["IT153"], "pg": "C", "semester": 7},
-        {"course": "IT365", "pre": ["IT153"], "pg": "C", "semester": 7},
-        {"course": "IT367", "pre": ["IT122"], "pg": "C", "semester": 7},
-        {"course": "MNGT377", "pre": [], "pg": "C", "semester": 7},
+        {"course": "GENL311", "pre": [], "pg": "D", "semester": 7, "name": "Marriage and Family"},
+        {"course": "IT363", "pre": ["IT153"], "pg": "C", "semester": 7, "name": "Front-end Web Development"},
+        {"course": "IT365", "pre": ["IT153"], "pg": "C", "semester": 7, "name": "Systems Analysis and Design"},
+        {"course": "IT367", "pre": ["IT122"], "pg": "C", "semester": 7, "name": "Web Applications Development"},
+        {"course": "IT369", "pre": [], "pg": "C", "semester": 7, "name": "Project Management"},
 
-        {"course": "GENL312", "pre": [], "pg": "D", "semester": 8},
-        {"course": "IT350", "pre": [], "pg": "D+", "semester": 8},
-        {"course": "IT366", "pre": [], "pg": "C", "semester": 8},
-        {"course": "IT368", "pre": [], "pg": "C", "semester": 8},
+        {"course": "GENL312", "pre": [], "pg": "D", "semester": 8, "name": "Personal Money Management "},
+        {"course": "IT350", "pre": [], "pg": "D+", "semester": 8, "name": "Applied Statistics"},
+        {"course": "IT366", "pre": [], "pg": "C", "semester": 8, "name": "Management Information Systems"},
+        {"course": "IT368", "pre": [], "pg": "C", "semester": 8, "name": "Software Engineering"},
 
-        {"course": "IT486", "pre": [], "pg": "C", "semester": 9},
+        {"course": "IT486", "pre": [], "pg": "C", "semester": 9, "name": "Systems Development Project I / Capstone Project I"},
 
-        {"course": "IT483", "pre": ["IT262"], "pg": "C", "semester": 10},
-        {"course": "IT487", "pre": ["IT486"], "pg": "C", "semester": 10},
+        {"course": "IT483", "pre": ["IT262"], "pg": "C", "semester": 10, "name": "Information Systems Security"},
+        {"course": "IT487", "pre": ["IT486"], "pg": "C", "semester": 10, "name": "Systems Development Project II / Capstone Project II"},
 
-        {"course": "IT488", "pre": ["IT486"], "pg": "C", "semester": 11}
+        {"course": "IT488", "pre": ["IT486"], "pg": "C", "semester": 11, "name": "Professional Internship / Cooperative Education"}
     ],
     "major_electives": {
         "pg": "C",
         "courses": [
-            {"course": "IT249", "pre": []},
-            {"course": "IT321", "pre": ["IT241"]},
-            {"course": "IT322", "pre": ["IT245"]},
-            {"course": "IT323", "pre": []},
-            {"course": "IT324", "pre": ["IT245"]},
-            {"course": "IT325", "pre": ["IT262"]},
-            {"course": "IT421", "pre": ["IT241"]},
-            {"course": "IT422", "pre": ["IT241"]},
-            {"course": "IT423", "pre": []},
-            {"course": "IT424", "pre": ["IT153"]},
-            {"course": "IT425", "pre": []},
-            {"course": "IT426", "pre": []},
-            {"course": "IT427", "pre": ["IT245"]}
+            {"course": "IT320", "pre": ["IT241","IT122"], "name": "Database Administration and Applications"},
+            {"course": "IT321", "pre": [], "name": "Linux System"},
+            {"course": "IT322", "pre": ["IT245"], "name": "Cloud Computing"},
+            {"course": "IT323", "pre": [], "name": "Internet of Things"},
+            {"course": "IT324", "pre": ["IT245"], "name": "Web Services Technology"},
+            {"course": "IT325", "pre": ["IT262"], "name": "Network Design and Administration"},
+            {"course": "IT421", "pre": ["IT241"], "name": "Business Intelligence & Data Mining"},
+            {"course": "IT422", "pre": ["IT241"], "name": "Big Data"},
+            {"course": "IT423", "pre": [], "name": "Artificial Intelligence"},
+            {"course": "IT424", "pre": ["IT268"], "name": "Electronic Business"},
+            {"course": "IT425", "pre": [], "name": "Information Technology Entrepreneurship"},
+            {"course": "IT426", "pre": [], "name": "Emerging Topics in IT "},
+            {"course": "IT427", "pre": ["IT245"], "name": "Application Development for Mobile Devices / Mobile Application Development"}
         ],
         "slots": [
-            {"semester": 6, "placeholder": "Major Elective 1"},
-            {"semester": 8, "placeholder": "Major Elective 2"},
-            {"semester": 9, "placeholder": "Major Elective 3"},
-            {"semester": 10, "placeholder": "Major Elective 4"},
+            {"semester": 4, "placeholder": "Major Elective 1"},
+            {"semester": 6, "placeholder": "Major Elective 2"},
+            {"semester": 8, "placeholder": "Major Elective 3"},
+            {"semester": 9, "placeholder": "Major Elective 4"},
             {"semester": 10, "placeholder": "Major Elective 5"}
         ]
     },
