@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import json
 import os
 import sys
@@ -50,37 +51,29 @@ class CourseDataResolver:
                         all_courses.update(value.split('/'))
         return all_courses
 
-    def get_canonical_course(self, student_course_id, curriculum_id):
-        """Finds the canonical course ID for a given student course ID and curriculum."""
-        cache_key = f"{student_course_id}-{curriculum_id}"
+    def get_canonical_course(self, internal_id, curriculum_id):
+        """Finds the canonical course ID for a given internal ID and curriculum."""
+        cache_key = f"internal-{internal_id}-{curriculum_id}"
         if cache_key in self._canonical_cache:
             return self._canonical_cache[cache_key]
 
-        for alias_data in self._aliases.values():
-            # Check if the student's course matches the specific curriculum alias
-            if alias_data.get(curriculum_id) == student_course_id:
-                self._canonical_cache[cache_key] = student_course_id
-                return student_course_id
-            
-            # Check if it matches any part of a multi-ID curriculum alias
-            curriculum_course = alias_data.get(curriculum_id, "")
-            if student_course_id in curriculum_course.split('/'):
-                 self._canonical_cache[cache_key] = curriculum_course
-                 return curriculum_course
+        alias_data = self._aliases.get(str(internal_id))
+        if not alias_data:
+            return None
 
-            # Fallback to check default aliases
-            default_course = alias_data.get('default', "")
-            if student_course_id in default_course.split('/'):
-                # Return the version specific to the student's curriculum if it exists
-                if curriculum_course:
-                    self._canonical_cache[cache_key] = curriculum_course
-                    return curriculum_course
-                self._canonical_cache[cache_key] = default_course
-                return default_course
+        # Prefer the curriculum-specific course code, if it's not empty
+        canonical_id = alias_data.get(curriculum_id)
+        if canonical_id:
+            self._canonical_cache[cache_key] = canonical_id
+            return canonical_id
 
-        # If no alias found, the course ID is its own canonical ID
-        self._canonical_cache[cache_key] = student_course_id
-        return student_course_id
+        # Fallback to the default course code, if it's not empty
+        canonical_id = alias_data.get('default')
+        if canonical_id:
+            self._canonical_cache[cache_key] = canonical_id
+            return canonical_id
+
+        return None # No suitable canonical ID found in the alias entry
 
 def load_json_data(filepath, is_config=False):
     """Loads data from a JSON file."""
@@ -113,7 +106,14 @@ def get_student_progress(student_courses, curriculum, grade_order, resolver):
 
     for student_course_id, details in student_courses.items():
         grade = details.get("grade")
-        canonical_id = resolver.get_canonical_course(student_course_id, curriculum_id)
+        internal_id = details.get("internal_course_id")
+
+        canonical_id = None
+        if internal_id is not None:
+            canonical_id = resolver.get_canonical_course(internal_id, curriculum_id)
+
+        if not canonical_id:
+            canonical_id = student_course_id
 
         is_accounted_for = False
         # Check against core courses

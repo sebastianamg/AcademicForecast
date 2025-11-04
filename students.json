@@ -4,98 +4,117 @@
         "courses": {
             "GENL101": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL115": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "D+"
+                "semester": 2,
+                "grade": "D+",
+                "internal_course_id": 7
             },
             "GENL116": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 2
             },
             "GENL117": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "A"
+                "semester": 3,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "RELT113": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "B+"
+                "semester": 3,
+                "grade": "B+",
+                "internal_course_id": 6
             },
             "ACCT131": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D"
+                "semester": 4,
+                "grade": "D",
+                "internal_course_id": 27
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 15
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 102
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 383
             },
             "GENL112": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 10
             },
             "GENL218": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 16
             },
             "GENL118": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 5
             },
             "IT151": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 14
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B"
+                "semester": 7,
+                "grade": "B",
+                "internal_course_id": 104
             },
             "IT122": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C+"
+                "semester": 8,
+                "grade": "C+",
+                "internal_course_id": 198
             },
             "IT126": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B+"
+                "semester": 8,
+                "grade": "B+",
+                "internal_course_id": 200
             },
             "IT274": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B+"
+                "semester": 8,
+                "grade": "B+",
+                "internal_course_id": 202
             }
         }
     },
@@ -104,168 +123,201 @@
         "courses": {
             "EDUC111": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "ENGL111": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 17
             },
             "HLED117": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 4
             },
             "MATH081": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "RELH271": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "B"
+                "semester": 1,
+                "grade": "B",
+                "internal_course_id": 382
             },
             "RELT150": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 9
             },
             "CPTR114": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 15
             },
             "GENL112": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 10
             },
             "GENL113": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 14
             },
             "GENL115": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "D+"
+                "semester": 2,
+                "grade": "D+",
+                "internal_course_id": 7
             },
             "GENL116": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 2
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 198
             },
             "IT251": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 103
             },
             "IT295": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 104
             },
             "MATH235": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 32
             },
             "MNGT131": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 28
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 383
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 199
             },
             "IT232": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 105
             },
             "IT242": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 109
             },
             "IT274": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 202
             },
             "IT325": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C"
+                "semester": 7,
+                "grade": "C",
+                "internal_course_id": 108
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "D+"
+                "semester": 7,
+                "grade": "D+",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "D+"
+                "semester": 7,
+                "grade": "D+",
+                "internal_course_id": 107
             },
             "IT352": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C"
+                "semester": 7,
+                "grade": "C",
+                "internal_course_id": 384
             },
             "IT282": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "D"
+                "semester": 8,
+                "grade": "D",
+                "internal_course_id": 201
             },
             "IT326": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B"
+                "semester": 8,
+                "grade": "B",
+                "internal_course_id": 203
             },
             "IT345": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "F"
+                "semester": 8,
+                "grade": "F",
+                "internal_course_id": 209
             },
             "IT463": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C"
+                "semester": 8,
+                "grade": "C",
+                "internal_course_id": 394
             },
             "IT468": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C+"
+                "semester": 8,
+                "grade": "C+",
+                "internal_course_id": 207
             },
             "MUSC275": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 359
             },
             "GENL312": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "A"
+                "semester": 9,
+                "grade": "A",
+                "internal_course_id": 13
             },
             "IT364": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "A"
+                "semester": 9,
+                "grade": "A",
+                "internal_course_id": 366
             }
         }
     },
@@ -274,173 +326,207 @@
         "courses": {
             "ENGL111": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 17
             },
             "GENL101": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL115": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 7
             },
             "HLED117": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "MATH081": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "RELT113": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 6
             },
             "CPTR114": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 15
             },
             "GENL112": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "D+"
+                "semester": 2,
+                "grade": "D+",
+                "internal_course_id": 10
             },
             "GENL113": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "F"
+                "semester": 2,
+                "grade": "F",
+                "internal_course_id": 14
             },
             "GENL116": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 2
             },
             "RELT150": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 9
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "I"
+                "semester": 4,
+                "grade": "I",
+                "internal_course_id": 198
             },
             "IT251": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D"
+                "semester": 4,
+                "grade": "D",
+                "internal_course_id": 103
             },
             "IT295": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "F"
+                "semester": 4,
+                "grade": "F",
+                "internal_course_id": 104
             },
             "MATH235": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "F"
+                "semester": 4,
+                "grade": "F",
+                "internal_course_id": 32
             },
             "MNGT131": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 28
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 383
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 199
             },
             "IT245": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "D+"
+                "semester": 5,
+                "grade": "D+",
+                "internal_course_id": 105
             },
             "IT274": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 202
             },
             "IT363": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 109
             },
             "IT364": {
                 "year": "2023-2024",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "ENGL251": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 20
             },
             "IT240": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 110
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "D+"
+                "semester": 7,
+                "grade": "D+",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "F"
+                "semester": 7,
+                "grade": "F",
+                "internal_course_id": 107
             },
             "IT352": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 384
             },
             "IT282": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B"
+                "semester": 8,
+                "grade": "B",
+                "internal_course_id": 201
             },
             "IT345": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "F"
+                "semester": 8,
+                "grade": "F",
+                "internal_course_id": 209
             },
             "IT368": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 204
             },
             "IT424": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C+"
+                "semester": 8,
+                "grade": "C+",
+                "internal_course_id": 113
             },
             "IT468": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 207
             },
             "GENL312": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "B+"
+                "semester": 9,
+                "grade": "B+",
+                "internal_course_id": 13
             },
             "IT483": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "IP"
+                "semester": 9,
+                "grade": "IP",
+                "internal_course_id": 208
             }
         }
     },
@@ -449,143 +535,171 @@
         "courses": {
             "ENGL111": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 17
             },
             "GENL101": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL103": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 6
             },
             "MATH081": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "PSYC115": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 7
             },
             "RELH271": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 382
             },
             "CPTR114": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 15
             },
             "GENL112": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 10
             },
             "GENL113": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 14
             },
             "MUSC211": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 350
             },
             "RELT150": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 9
             },
             "GENL117": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "B"
+                "semester": 3,
+                "grade": "B",
+                "internal_course_id": 4
             },
             "IT364": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "B+"
+                "semester": 3,
+                "grade": "B+",
+                "internal_course_id": 366
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 198
             },
             "IT251": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 103
             },
             "IT295": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 104
             },
             "MATH235": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 32
             },
             "MNGT131": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 28
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 383
             },
             "IT232": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 105
             },
             "IT242": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 109
             },
             "IT272": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 199
             },
             "IT274": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 202
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C"
+                "semester": 7,
+                "grade": "C",
+                "internal_course_id": 107
             },
             "IT352": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B"
+                "semester": 7,
+                "grade": "B",
+                "internal_course_id": 384
             },
             "IT365": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B"
+                "semester": 7,
+                "grade": "B",
+                "internal_course_id": 110
             },
             "MNGT377": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C"
+                "semester": 7,
+                "grade": "C",
+                "internal_course_id": 40
             }
         }
     },
@@ -594,178 +708,213 @@
         "courses": {
             "GENL101": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL103": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 6
             },
             "GENL111": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "B"
+                "semester": 1,
+                "grade": "B",
+                "internal_course_id": 17
             },
             "GENL115": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 7
             },
             "GENL117": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "MATH081": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "CPTR114": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 15
             },
             "GENL112": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "GENL113": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 14
             },
             "GENL116": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 2
             },
             "RELT150": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 9
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 198
             },
             "IT251": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B+"
+                "semester": 4,
+                "grade": "B+",
+                "internal_course_id": 103
             },
             "IT295": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 104
             },
             "MATH235": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 32
             },
             "MNGT131": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 28
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 383
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 199
             },
             "IT232": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 105
             },
             "IT242": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 109
             },
             "IT274": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 202
             },
             "IT364": {
                 "year": "2023-2024",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "ENGL251": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B"
+                "semester": 7,
+                "grade": "B",
+                "internal_course_id": 20
             },
             "IT240": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 110
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B+"
+                "semester": 7,
+                "grade": "B+",
+                "internal_course_id": 107
             },
             "IT352": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 384
             },
             "MNGT378": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B"
+                "semester": 7,
+                "grade": "B",
+                "internal_course_id": 40
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B+"
+                "semester": 8,
+                "grade": "B+",
+                "internal_course_id": 201
             },
             "IT345": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 209
             },
             "IT368": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 204
             },
             "IT424": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B+"
+                "semester": 8,
+                "grade": "B+",
+                "internal_course_id": 113
             },
             "IT468": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 207
             },
             "MUSC207": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 349
             },
             "GENL312": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "B+"
+                "semester": 9,
+                "grade": "B+",
+                "internal_course_id": 13
             }
         }
     },
@@ -774,168 +923,195 @@
         "courses": {
             "GENL101": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL103": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 6
             },
             "GENL111": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 17
             },
             "GENL116": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "B"
+                "semester": 1,
+                "grade": "B",
+                "internal_course_id": 2
             },
             "GENL117": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 4
             },
             "MATH081": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "CPTR114": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "D+"
+                "semester": 2,
+                "grade": "D+",
+                "internal_course_id": 15
             },
             "GENL112": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 10
             },
             "GENL113": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 14
             },
             "GENL115": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 7
             },
             "IT242": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 109
             },
             "GENL213": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 381
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 198
             },
             "IT240": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 110
             },
             "IT251": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 103
             },
             "MNGT131": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 28
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 383
             },
             "GENL312": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 13
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 199
             },
             "IT232": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 105
             },
             "IT274": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C+"
-            },
-            "GENL110": {
-                "year": "2023-2024",
-                "semester": "6",
-                "grade": "S"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 202
             },
             "IT364": {
                 "year": "2023-2024",
-                "semester": "6",
-                "grade": "B"
+                "semester": 6,
+                "grade": "B",
+                "internal_course_id": 366
             },
             "IT325": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B+"
+                "semester": 7,
+                "grade": "B+",
+                "internal_course_id": 108
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C"
+                "semester": 7,
+                "grade": "C",
+                "internal_course_id": 107
             },
             "IT352": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 384
             },
             "IT282": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C"
+                "semester": 8,
+                "grade": "C",
+                "internal_course_id": 201
             },
             "IT326": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C+"
+                "semester": 8,
+                "grade": "C+",
+                "internal_course_id": 203
             },
             "IT424": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B"
+                "semester": 8,
+                "grade": "B",
+                "internal_course_id": 113
             },
             "IT447": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B+"
+                "semester": 8,
+                "grade": "B+",
+                "internal_course_id": 204
             },
             "IT468": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 207
             },
             "IT423": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "C+"
+                "semester": 9,
+                "grade": "C+",
+                "internal_course_id": 379
             }
         }
     },
@@ -944,163 +1120,195 @@
         "courses": {
             "ENGL3256": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "B"
+                "semester": 1,
+                "grade": "B",
+                "internal_course_id": 17
             },
             "GENL101": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL115": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 7
             },
             "GENL117": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "B"
+                "semester": 1,
+                "grade": "B",
+                "internal_course_id": 4
             },
             "MATH081": {
                 "year": "2022-2023",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "CPTR114": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 15
             },
             "GENL111": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 17
             },
             "GENL113": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 14
             },
             "GENL116": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 2
             },
             "RELT150": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 9
             },
             "IT364": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "A"
+                "semester": 3,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "MATH120": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "C+"
+                "semester": 3,
+                "grade": "C+",
+                "internal_course_id": 212
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 198
             },
             "IT240": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 110
             },
             "IT251": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 103
             },
             "IT295": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 104
             },
             "MATH235": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 32
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "D+"
+                "semester": 5,
+                "grade": "D+",
+                "internal_course_id": 199
             },
             "IT232": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 105
             },
             "IT242": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 109
             },
             "IT274": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "D+"
+                "semester": 5,
+                "grade": "D+",
+                "internal_course_id": 202
             },
             "IT325": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "D"
+                "semester": 7,
+                "grade": "D",
+                "internal_course_id": 108
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C"
+                "semester": 7,
+                "grade": "C",
+                "internal_course_id": 107
             },
             "IT352": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C"
+                "semester": 7,
+                "grade": "C",
+                "internal_course_id": 384
             },
             "IT282": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C+"
+                "semester": 8,
+                "grade": "C+",
+                "internal_course_id": 201
             },
             "IT326": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C+"
+                "semester": 8,
+                "grade": "C+",
+                "internal_course_id": 203
             },
             "IT345": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "W"
+                "semester": 8,
+                "grade": "W",
+                "internal_course_id": 209
             },
             "IT447": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B+"
+                "semester": 8,
+                "grade": "B+",
+                "internal_course_id": 204
             },
             "IT463": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "D+"
+                "semester": 8,
+                "grade": "D+",
+                "internal_course_id": 394
             },
             "RELT113": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "C+"
+                "semester": 9,
+                "grade": "C+",
+                "internal_course_id": 6
             }
         }
     },
@@ -1109,143 +1317,171 @@
         "courses": {
             "CPTR114": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 15
             },
             "GENL101": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL111": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 17
             },
             "GENL113": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 14
             },
             "GENL116": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 2
             },
             "RELT150": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 9
             },
             "GENL117": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "W"
+                "semester": 3,
+                "grade": "W",
+                "internal_course_id": 4
             },
             "IT364": {
                 "year": "2023-2024",
-                "semester": "6",
-                "grade": "B+"
+                "semester": 6,
+                "grade": "B+",
+                "internal_course_id": 366
             },
             "GENL112": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 10
             },
             "GENL118": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 8
             },
             "GENL213": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B+"
+                "semester": 4,
+                "grade": "B+",
+                "internal_course_id": 6
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 198
             },
             "IT251": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 103
             },
             "BIOL152": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 132
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 199
             },
             "IT245": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 105
             },
             "IT363": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 109
             },
             "IT463": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 394
             },
             "IT423": {
                 "year": "2023-2024",
-                "semester": "6",
-                "grade": "C+"
+                "semester": 6,
+                "grade": "C+",
+                "internal_course_id": 379
             },
             "IT295": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 104
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C+"
+                "semester": 7,
+                "grade": "C+",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B+"
+                "semester": 7,
+                "grade": "B+",
+                "internal_course_id": 107
             },
             "MATH235": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B+"
+                "semester": 7,
+                "grade": "B+",
+                "internal_course_id": 32
             },
             "MATH241": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "C"
+                "semester": 7,
+                "grade": "C",
+                "internal_course_id": 88
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C+"
+                "semester": 8,
+                "grade": "C+",
+                "internal_course_id": 201
             },
             "IT345": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C"
+                "semester": 8,
+                "grade": "C",
+                "internal_course_id": 209
             },
             "IT468": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 207
             },
             "IT485": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "IP"
+                "semester": 8,
+                "grade": "IP",
+                "internal_course_id": 211
             }
         }
     },
@@ -1254,98 +1490,117 @@
         "courses": {
             "GENL101": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL111": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 17
             },
             "IT232": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "F"
+                "semester": 2,
+                "grade": "F",
+                "internal_course_id": 105
             },
             "IT272": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 199
             },
             "MATH081": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "S"
+                "semester": 2,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "RELB116": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 2
             },
             "GENL103": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B+"
+                "semester": 4,
+                "grade": "B+",
+                "internal_course_id": 6
             },
             "GENL115": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 7
             },
             "IT295": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "D+"
+                "semester": 4,
+                "grade": "D+",
+                "internal_course_id": 104
             },
             "MATH235": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "W"
+                "semester": 7,
+                "grade": "W",
+                "internal_course_id": 32
             },
             "RELH271": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 382
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "Au"
+                "semester": 8,
+                "grade": "Au",
+                "internal_course_id": 109
             },
             "IT384": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 114
             },
             "IT445": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 205
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "W"
+                "semester": 7,
+                "grade": "W",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "W"
+                "semester": 7,
+                "grade": "W",
+                "internal_course_id": 107
             },
             "GENL112": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B+"
+                "semester": 8,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "GENL117": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "Au"
+                "semester": 8,
+                "grade": "Au",
+                "internal_course_id": 4
             },
             "GENL312": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "B"
+                "semester": 9,
+                "grade": "B",
+                "internal_course_id": 13
             }
         }
     },
@@ -1354,183 +1609,219 @@
         "courses": {
             "CPTR114": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 15
             },
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL116": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 2
             },
             "IT325": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 108
             },
             "MUSC211": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 350
             },
             "RELT150": {
                 "year": "2022-2023",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 9
             },
             "IT364": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "A"
+                "semester": 3,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "IT121": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 28
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 14
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 198
             },
             "IT295": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 104
             },
             "MUSC212": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 351
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 10
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 199
             },
             "IT245": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 105
             },
             "IT363": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 109
             },
             "MUSC270": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 358
             },
             "MUSC381": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 363
             },
             "GENL117": {
                 "year": "2023-2024",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "GENL215": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B"
+                "semester": 7,
+                "grade": "B",
+                "internal_course_id": 8
             },
             "IT153": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 102
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 103
             },
             "IT247": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 106
             },
             "IT365": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 110
             },
             "MATH235": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 32
             },
             "MNGT377": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 40
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 200
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 201
             },
             "IT366": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 202
             },
             "IT368": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 204
             },
             "IT480": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 206
             },
             "MUSC361": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B+"
+                "semester": 8,
+                "grade": "B+",
+                "internal_course_id": 397
             },
             "MUSC370": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 398
             },
             "IT421": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "A"
+                "semester": 9,
+                "grade": "A",
+                "internal_course_id": 379
             }
         }
     },
@@ -1539,138 +1830,165 @@
         "courses": {
             "GENL103": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "B+"
+                "semester": 3,
+                "grade": "B+",
+                "internal_course_id": 6
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 17
             },
             "GENL117": {
                 "year": "2022-2023",
-                "semester": "3",
-                "grade": "B+"
+                "semester": 3,
+                "grade": "B+",
+                "internal_course_id": 4
             },
             "GENL101": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "GENL116": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 2
             },
             "GENL118": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 5
             },
             "GENL211": {
                 "year": "2023-2024",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 9
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 383
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "GENL215": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 8
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 199
             },
             "ENGL237": {
                 "year": "2023-2024",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 180
             },
             "IT364": {
                 "year": "2023-2024",
-                "semester": "6",
-                "grade": "C+"
+                "semester": 6,
+                "grade": "C+",
+                "internal_course_id": 366
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B"
+                "semester": 7,
+                "grade": "B",
+                "internal_course_id": 103
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B+"
+                "semester": 7,
+                "grade": "B+",
+                "internal_course_id": 104
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "A"
+                "semester": 7,
+                "grade": "A",
+                "internal_course_id": 105
             },
             "IT247": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B"
+                "semester": 7,
+                "grade": "B",
+                "internal_course_id": 106
             },
             "IT365": {
                 "year": "2024-2025",
-                "semester": "7",
-                "grade": "B+"
+                "semester": 7,
+                "grade": "B+",
+                "internal_course_id": 110
             },
             "ENGL262": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "C"
+                "semester": 8,
+                "grade": "C",
+                "internal_course_id": 183
             },
             "IT242": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B"
+                "semester": 8,
+                "grade": "B",
+                "internal_course_id": 109
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "B"
+                "semester": 8,
+                "grade": "B",
+                "internal_course_id": 200
             },
             "IT274": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 202
             },
             "IT282": {
                 "year": "2024-2025",
-                "semester": "8",
-                "grade": "A"
+                "semester": 8,
+                "grade": "A",
+                "internal_course_id": 201
             },
             "GENL312": {
                 "year": "2024-2025",
-                "semester": "9",
-                "grade": "B+"
+                "semester": 9,
+                "grade": "B+",
+                "internal_course_id": 13
             }
         }
     },
@@ -1679,118 +1997,141 @@
         "courses": {
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "IT121": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 28
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 14
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B"
+                "semester": 1,
+                "grade": "B",
+                "internal_course_id": 102
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "D+"
+                "semester": 2,
+                "grade": "D+",
+                "internal_course_id": 10
             },
             "GENL215": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 8
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 199
             },
             "GENL117": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "F"
+                "semester": 3,
+                "grade": "F",
+                "internal_course_id": 4
             },
             "IT364": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "C+"
+                "semester": 3,
+                "grade": "C+",
+                "internal_course_id": 366
             },
             "GENL213": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 6
             },
             "GENL217": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "W"
+                "semester": 4,
+                "grade": "W",
+                "internal_course_id": 5
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 103
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B+"
+                "semester": 4,
+                "grade": "B+",
+                "internal_course_id": 104
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 105
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 2
             },
             "IT242": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 109
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 200
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 201
             },
             "IT274": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 202
             }
         }
     },
@@ -1799,78 +2140,93 @@
         "courses": {
             "GENL081": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "S"
+                "semester": 3,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "GENL117": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "B+"
+                "semester": 3,
+                "grade": "B+",
+                "internal_course_id": 4
             },
             "GENL111": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 2
             },
             "IT153": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 102
             },
             "MNGT131": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 28
             },
             "GENL214": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 10
             },
             "GENL215": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 8
             },
             "IT122": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 199
             },
             "IT126": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 201
             },
             "GENL213": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 6
             }
         }
     },
@@ -1879,128 +2235,153 @@
         "courses": {
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 14
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 102
             },
             "MNGT131": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 28
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 383
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 10
             },
             "GENL215": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 8
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 199
             },
             "GENL117": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "GENL217": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 5
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 103
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 104
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 105
             },
             "IT247": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 106
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 2
             },
             "IT126": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 200
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 201
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 109
             },
             "GENL311": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 13
             },
             "RELT350": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 399
             }
         }
     },
@@ -2009,123 +2390,147 @@
         "courses": {
             "GENL081": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "GENL116": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 2
             },
             "GENL118": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 8
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 102
             },
             "GENL101": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 1
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 199
             },
             "IT151": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 14
             },
             "GENL117": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 4
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 103
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 104
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 105
             },
             "MNGT131": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 28
             },
             "IT126": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 366
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "D+"
+                "semester": 5,
+                "grade": "D+",
+                "internal_course_id": 200
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 201
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 109
             },
             "IT366": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 202
             },
             "GENL311": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "B+"
+                "semester": 6,
+                "grade": "B+",
+                "internal_course_id": 13
             },
             "RELT113": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "B+"
+                "semester": 6,
+                "grade": "B+",
+                "internal_course_id": 6
             }
         }
     },
@@ -2134,123 +2539,147 @@
         "courses": {
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "IT121": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 28
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 14
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 102
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 383
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "GENL215": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 8
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 199
             },
             "GENL117": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "A"
+                "semester": 3,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "GENL211": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "B+"
+                "semester": 3,
+                "grade": "B+",
+                "internal_course_id": 9
             },
             "GENL213": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 6
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B+"
+                "semester": 4,
+                "grade": "B+",
+                "internal_course_id": 103
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 104
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 105
             },
             "IT247": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 106
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 2
             },
             "IT126": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 200
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 201
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 109
             }
         }
     },
@@ -2259,108 +2688,129 @@
         "courses": {
             "GENL081": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B"
+                "semester": 1,
+                "grade": "B",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 15
             },
             "GENL118": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "D+"
+                "semester": 1,
+                "grade": "D+",
+                "internal_course_id": 8
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "D+"
+                "semester": 1,
+                "grade": "D+",
+                "internal_course_id": 102
             },
             "MUSC270": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 358
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B"
+                "semester": 2,
+                "grade": "B",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 10
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 199
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "D"
+                "semester": 2,
+                "grade": "D",
+                "internal_course_id": 14
             },
             "GENL217": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 5
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 103
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "D"
+                "semester": 4,
+                "grade": "D",
+                "internal_course_id": 105
             },
             "IT295": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 104
             },
             "MNGT131": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 28
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "D+"
+                "semester": 5,
+                "grade": "D+",
+                "internal_course_id": 2
             },
             "IT126": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "D+"
+                "semester": 5,
+                "grade": "D+",
+                "internal_course_id": 200
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 109
             }
         }
     },
@@ -2369,123 +2819,147 @@
         "courses": {
             "GENL081": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "S"
+                "semester": 1,
+                "grade": "S",
+                "internal_course_id": 118
             },
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "GENL118": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 8
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 102
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 10
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 199
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 14
             },
             "GENL117": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "A"
+                "semester": 3,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "GENL213": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "B"
+                "semester": 3,
+                "grade": "B",
+                "internal_course_id": 6
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 103
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 104
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 105
             },
             "IT247": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 106
             },
             "MNGT131": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 28
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 2
             },
             "IT126": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 200
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 201
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 109
             },
             "IT421": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 379
             }
         }
     },
@@ -2494,128 +2968,153 @@
         "courses": {
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "IT121": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 28
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 14
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B"
+                "semester": 1,
+                "grade": "B",
+                "internal_course_id": 102
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 383
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "GENL215": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 8
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 199
             },
             "GENL117": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "B+"
+                "semester": 3,
+                "grade": "B+",
+                "internal_course_id": 4
             },
             "GENL213": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 381
             },
             "IT364": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "B+"
+                "semester": 3,
+                "grade": "B+",
+                "internal_course_id": 366
             },
             "GENL217": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 5
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 103
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 105
             },
             "IT365": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 110
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 2
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "D+"
+                "semester": 5,
+                "grade": "D+",
+                "internal_course_id": 200
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 201
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 109
             },
             "IT366": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C"
+                "semester": 5,
+                "grade": "C",
+                "internal_course_id": 202
             },
             "GENL311": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "B"
+                "semester": 6,
+                "grade": "B",
+                "internal_course_id": 13
             }
         }
     },
@@ -2624,128 +3123,153 @@
         "courses": {
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "IT121": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 28
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 14
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "B+"
+                "semester": 1,
+                "grade": "B+",
+                "internal_course_id": 102
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 383
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "GENL215": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 8
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 199
             },
             "GENL117": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "A"
+                "semester": 3,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "IT364": {
                 "year": "2023-2024",
-                "semester": "3",
-                "grade": "A"
+                "semester": 3,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "GENL213": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 6
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 103
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 104
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B+"
+                "semester": 4,
+                "grade": "B+",
+                "internal_course_id": 105
             },
             "IT247": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 106
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 2
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 200
             },
             "IT282": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 201
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 109
             },
             "IT366": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 202
             },
             "GENL312": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "A"
+                "semester": 6,
+                "grade": "A",
+                "internal_course_id": 13
             }
         }
     },
@@ -2754,128 +3278,153 @@
         "courses": {
             "GENL111": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 1
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 17
             },
             "GENL114": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 15
             },
             "IT151": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 14
             },
             "IT153": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 102
             },
             "MNGT131": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "A"
+                "semester": 1,
+                "grade": "A",
+                "internal_course_id": 28
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 383
             },
             "GENL119": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 396
             },
             "GENL214": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "B+"
+                "semester": 2,
+                "grade": "B+",
+                "internal_course_id": 10
             },
             "GENL215": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 8
             },
             "IT122": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 198
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "A"
+                "semester": 2,
+                "grade": "A",
+                "internal_course_id": 199
             },
             "GENL117": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 4
             },
             "GENL217": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 5
             },
             "IT241": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B+"
+                "semester": 4,
+                "grade": "B+",
+                "internal_course_id": 103
             },
             "IT243": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 104
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B"
+                "semester": 4,
+                "grade": "B",
+                "internal_course_id": 105
             },
             "IT247": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "A"
+                "semester": 4,
+                "grade": "A",
+                "internal_course_id": 106
             },
             "GENL116": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 2
             },
             "IT126": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 366
             },
             "IT252": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "C+"
+                "semester": 5,
+                "grade": "C+",
+                "internal_course_id": 200
             },
             "IT262": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 201
             },
             "IT363": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 109
             },
             "IT421": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "B"
+                "semester": 6,
+                "grade": "B",
+                "internal_course_id": 379
             },
             "RELT350": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "B+"
+                "semester": 6,
+                "grade": "B+",
+                "internal_course_id": 399
             }
         }
     },
@@ -2884,163 +3433,195 @@
         "courses": {
             "GENL117": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C+"
+                "semester": 1,
+                "grade": "C+",
+                "internal_course_id": 4
             },
             "IT231": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "D+"
+                "semester": 1,
+                "grade": "D+",
+                "internal_course_id": 198
             },
             "IT240": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 110
             },
             "IT251": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 103
             },
             "IT295": {
                 "year": "2023-2024",
-                "semester": "1",
-                "grade": "C"
+                "semester": 1,
+                "grade": "C",
+                "internal_course_id": 104
             },
             "BUAD234": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 383
             },
             "CPTR114": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "T"
+                "semester": 2,
+                "grade": "T",
+                "internal_course_id": 15
             },
             "FREEELEC": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "T"
+                "semester": 2,
+                "grade": "T",
+                "internal_course_id": 223
             },
             "GE": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "T"
+                "semester": 2,
+                "grade": "T",
+                "internal_course_id": 2
             },
             "GENL113": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 17
             },
             "HMNT210": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "T"
+                "semester": 2,
+                "grade": "T",
+                "internal_course_id": 387
             },
             "IT124": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C"
+                "semester": 2,
+                "grade": "C",
+                "internal_course_id": 199
             },
             "IT242": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 109
             },
             "IT274": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "C+"
+                "semester": 2,
+                "grade": "C+",
+                "internal_course_id": 202
             },
             "MATH112": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "T"
+                "semester": 2,
+                "grade": "T",
+                "internal_course_id": 14
             },
             "MNGT131": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "T"
+                "semester": 2,
+                "grade": "T",
+                "internal_course_id": 28
             },
             "RELT150": {
                 "year": "2023-2024",
-                "semester": "2",
-                "grade": "T"
+                "semester": 2,
+                "grade": "T",
+                "internal_course_id": 9
             },
             "IT245": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 105
             },
             "IT325": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 108
             },
             "IT333": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C"
+                "semester": 4,
+                "grade": "C",
+                "internal_course_id": 106
             },
             "IT341": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "B+"
+                "semester": 4,
+                "grade": "B+",
+                "internal_course_id": 107
             },
             "IT352": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "C+"
+                "semester": 4,
+                "grade": "C+",
+                "internal_course_id": 384
             },
             "MATH235": {
                 "year": "2024-2025",
-                "semester": "4",
-                "grade": "CE"
+                "semester": 4,
+                "grade": "CE",
+                "internal_course_id": 32
             },
             "ACCT131": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "T"
+                "semester": 5,
+                "grade": "T",
+                "internal_course_id": 27
             },
             "ENGL112": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "CE"
+                "semester": 5,
+                "grade": "CE",
+                "internal_course_id": 10
             },
             "IT282": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 201
             },
             "IT345": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B+"
+                "semester": 5,
+                "grade": "B+",
+                "internal_course_id": 209
             },
             "IT447": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 204
             },
             "IT468": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "A"
+                "semester": 5,
+                "grade": "A",
+                "internal_course_id": 207
             },
             "IT480": {
                 "year": "2024-2025",
-                "semester": "5",
-                "grade": "B"
+                "semester": 5,
+                "grade": "B",
+                "internal_course_id": 206
             },
             "IT483": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "IP"
+                "semester": 6,
+                "grade": "IP",
+                "internal_course_id": 208
             },
             "IT485": {
                 "year": "2024-2025",
-                "semester": "6",
-                "grade": "S"
+                "semester": 6,
+                "grade": "S",
+                "internal_course_id": 211
             }
         }
     }

@@ -1,0 +1,2235 @@
+{
+    "202200126": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-2",
+            "Humanities-3",
+            "IT231",
+            "IT274",
+            "IT295",
+            "IT364",
+            "MATH112",
+            "PSYC115"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT282",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT383",
+            "IT384",
+            "IT468",
+            "IT484",
+            "MATH235",
+            "MNGT231",
+            "MNGT378"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": -2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT325"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "RELP312",
+                    {
+                        "Major Elective 3": [
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "ACCT131",
+                            "IT325"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483",
+                    "IT447",
+                    {
+                        "Major Elective 5": [
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2027-2028",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 6": [
+                            "ACCT131",
+                            "IT325"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202200136": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-1",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT295",
+            "IT325",
+            "IT326",
+            "IT333",
+            "IT352",
+            "IT364",
+            "IT463",
+            "IT468",
+            "MATH112",
+            "MATH235",
+            "MNGT231",
+            "PSYC115",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [
+            "IT282",
+            "IT341"
+        ],
+        "pending_core_courses": [
+            "IT240",
+            "IT383",
+            "IT384",
+            "IT484",
+            "MNGT378"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-2",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT341",
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT424"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "IT282",
+                    {
+                        "Major Elective 3": [
+                            "IT345",
+                            "IT424",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483",
+                    "IT447"
+                ]
+            }
+        ]
+    },
+    "202200142": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-2",
+            "Humanities-3",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT272",
+            "IT274",
+            "IT282",
+            "IT333",
+            "IT352",
+            "IT364",
+            "IT424",
+            "IT447",
+            "IT468",
+            "MNGT231",
+            "PSYC115",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [
+            "IT231",
+            "IT251",
+            "IT295",
+            "IT341",
+            "IT483",
+            "MATH112",
+            "MATH235"
+        ],
+        "pending_core_courses": [
+            "IT384",
+            "IT484",
+            "MNGT378"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT295",
+                    "MATH112",
+                    "IT251",
+                    "MATH235",
+                    "IT383",
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT325",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "IT483",
+                    "IT231",
+                    {
+                        "Major Elective 3": [
+                            "IT326",
+                            "IT345",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT423"
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    "IT341",
+                    {
+                        "Major Elective 4": [
+                            "ACCT131",
+                            "IT325",
+                            "IT460"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202200154": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-1",
+            "Humanities-2",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT295",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT364",
+            "MATH112",
+            "MATH235",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "IT282",
+            "IT383",
+            "IT384",
+            "IT468",
+            "IT484"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT325",
+                            "IT424",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "RELP312",
+                    {
+                        "Major Elective 3": [
+                            "IT326",
+                            "IT345",
+                            "IT424",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT423"
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "ACCT131",
+                            "IT325",
+                            "IT424",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483",
+                    "IT447",
+                    {
+                        "Major Elective 5": [
+                            "IT326",
+                            "IT345",
+                            "IT424",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202200177": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-2",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT282",
+            "IT295",
+            "IT333",
+            "IT341",
+            "IT345",
+            "IT352",
+            "IT364",
+            "IT424",
+            "IT447",
+            "IT468",
+            "MATH112",
+            "MATH235",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "IT384",
+            "IT484"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT383",
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT325",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 3": [
+                            "IT326",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT423"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483"
+                ]
+            }
+        ]
+    },
+    "202200178": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-2",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT282",
+            "IT325",
+            "IT326",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT364",
+            "IT423",
+            "IT424",
+            "IT447",
+            "IT468",
+            "MATH112",
+            "MNGT231",
+            "PSYC115",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "IT295",
+            "IT384",
+            "IT484",
+            "MATH235",
+            "MNGT378"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT383",
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483"
+                ]
+            }
+        ]
+    },
+    "202200185": {
+        "passed_courses": [
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-2",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT282",
+            "IT295",
+            "IT326",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT364",
+            "IT447",
+            "MATH112",
+            "MATH235",
+            "PSYC115"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "BUAD234",
+            "IT384",
+            "IT468",
+            "IT484",
+            "MNGT231",
+            "MNGT378"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT383",
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT325",
+                            "IT424",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "RELP312",
+                    {
+                        "Major Elective 3": [
+                            "IT345",
+                            "IT424",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT423"
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "ACCT131",
+                            "IT325",
+                            "IT424",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483"
+                ]
+            }
+        ]
+    },
+    "202200246": {
+        "passed_courses": [
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "Humanities-2",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT282",
+            "IT295",
+            "IT333",
+            "IT341",
+            "IT345",
+            "IT364",
+            "IT423",
+            "IT463",
+            "IT468",
+            "MATH112",
+            "MATH235"
+        ],
+        "failed_courses_to_retake": [
+            "HLED117"
+        ],
+        "pending_core_courses": [
+            "BUAD234",
+            "IT240",
+            "IT274",
+            "IT352",
+            "IT384",
+            "IT484",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": -1,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "HLED117",
+                    "IT383",
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT325",
+                            "IT424"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "RELP312",
+                    {
+                        "Major Elective 3": [
+                            "IT326",
+                            "IT424",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483",
+                    "IT447"
+                ]
+            }
+        ]
+    },
+    "202200254": {
+        "passed_courses": [
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "Humanities-1",
+            "Humanities-2",
+            "Humanities-3",
+            "IT272",
+            "IT295",
+            "IT384",
+            "IT445",
+            "PSYC115",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [
+            "HLED117",
+            "IT232",
+            "IT242",
+            "IT333",
+            "IT341",
+            "MATH235"
+        ],
+        "pending_core_courses": [
+            "BUAD234",
+            "CPTR114",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT274",
+            "IT282",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT383",
+            "IT468",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "MNGT378"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "HLED117",
+                    "MATH235",
+                    "IT371",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT325"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 3": [
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT364"
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "ACCT131",
+                            "IT325"
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483",
+                    "IT447",
+                    {
+                        "Major Elective 5": [
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202200272": {
+        "passed_courses": [
+            "CPTR114",
+            "EDUC111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT282",
+            "IT295",
+            "IT325",
+            "IT333",
+            "IT364",
+            "IT423",
+            "IT447",
+            "IT480",
+            "MATH112",
+            "MATH235",
+            "MNGT231",
+            "MNGT378"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "BUAD234",
+            "ENGL111",
+            "IT352",
+            "IT384",
+            "IT468",
+            "IT484",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-2",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": -8,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT383",
+                    "IT371",
+                    "IT341",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT424",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "RELP312",
+                    {
+                        "Major Elective 3": [
+                            "IT326",
+                            "IT345",
+                            "IT424",
+                            "IT445",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483"
+                ]
+            }
+        ]
+    },
+    "202200292": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "Humanities-2",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT282",
+            "IT295",
+            "IT333",
+            "IT364",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "IT352",
+            "IT384",
+            "IT468",
+            "IT484",
+            "MATH112",
+            "MATH235",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": -4,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT383",
+                    "IT371",
+                    "IT341",
+                    {
+                        "Major Elective 2": [
+                            "ACCT131",
+                            "IT325",
+                            "IT424",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 3": [
+                            "IT326",
+                            "IT345",
+                            "IT424",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT423"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "ACCT131",
+                            "IT325",
+                            "IT424",
+                            "IT460"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT483",
+                    "IT447",
+                    {
+                        "Major Elective 5": [
+                            "IT326",
+                            "IT345",
+                            "IT424",
+                            "IT445",
+                            "IT480",
+                            "IT485"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300153": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL115",
+            "GENL116",
+            "GENL214",
+            "Humanities 1",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT262",
+            "IT363",
+            "IT366",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [
+            "GENL114",
+            "GENL118"
+        ],
+        "pending_core_courses": [
+            "GENL216",
+            "IT252",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": -1,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "GENL114",
+                    "GENL118",
+                    "GENL311",
+                    "IT369",
+                    "IT367",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT368",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT421"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300154": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL214",
+            "Humanities 1",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT153",
+            "IT262",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL118",
+            "GENL216",
+            "IT151",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 2,
+        "pending_free_electives": 1,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT369",
+                    "GENL311",
+                    "IT367",
+                    "IT363",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "IT366",
+                    "GENL312",
+                    "IT368",
+                    {
+                        "Major Elective 3": [
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300155": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "GENL311",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT262",
+            "IT264",
+            "IT363",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL216",
+            "IT252",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities 1"
+        ],
+        "pending_major_electives": 1,
+        "pending_free_electives": -3,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT369",
+                    "IT367",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT368",
+                    "IT366",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT421"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300158": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL214",
+            "GENL311",
+            "Humanities 1",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT262",
+            "IT363",
+            "IT366",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL118",
+            "GENL216",
+            "IT252",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": -1,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT369",
+                    "IT367",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT368",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT421"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300181": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL214",
+            "Humanities 1",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT262",
+            "IT264",
+            "IT363",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL118",
+            "GENL216",
+            "IT252",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": -2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "GENL311",
+                    "IT369",
+                    "IT367",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT368",
+                    "IT366",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT421"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300188": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL115",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT363",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [
+            "IT151",
+            "IT245"
+        ],
+        "pending_core_courses": [
+            "GENL114",
+            "GENL216",
+            "IT252",
+            "IT262",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities 1"
+        ],
+        "pending_major_electives": 1,
+        "pending_free_electives": -2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT151",
+                    "IT245",
+                    "GENL311",
+                    "IT369",
+                    "IT367",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT366",
+                    "IT368",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT421"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300203": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL214",
+            "Humanities 1",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT262",
+            "IT264",
+            "IT363",
+            "IT421",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL118",
+            "GENL216",
+            "IT252",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": -1,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "GENL311",
+                    "IT369",
+                    "IT367",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT368",
+                    "IT366",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300206": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "GENL311",
+            "Humanities 1",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT245",
+            "IT262",
+            "IT363",
+            "IT365",
+            "IT366",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL216",
+            "IT243",
+            "IT252",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": -2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT369",
+                    "IT367"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT368",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT421"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300210": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL214",
+            "GENL311",
+            "Humanities 1",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT262",
+            "IT264",
+            "IT363",
+            "IT366",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL118",
+            "GENL216",
+            "IT252",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": -2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT369",
+                    "IT367",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT368",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT421"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300211": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "IT122",
+            "IT123",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT262",
+            "IT264",
+            "IT363",
+            "IT421",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL216",
+            "IT252",
+            "IT268",
+            "IT350",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities 1"
+        ],
+        "pending_major_electives": 1,
+        "pending_free_electives": -3,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "GENL311",
+                    "IT369",
+                    "IT367",
+                    "IT365"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "GENL312",
+                    "IT368",
+                    "IT366",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT321",
+                            "IT325",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            "IT322",
+                            "IT422",
+                            "IT426"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300212": {
+        "passed_courses": [
+            "GENL113",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "Humanities 1",
+            "IT124",
+            "IT151",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT262",
+            "IT264",
+            "IT320",
+            "IT321",
+            "IT363",
+            "IT365",
+            "IT366",
+            "IT367",
+            "IT368",
+            "IT426",
+            "IT481"
+        ],
+        "failed_courses_to_retake": [
+            "GENL214",
+            "IT122",
+            "IT350",
+            "IT486",
+            "IT488"
+        ],
+        "pending_core_courses": [
+            "GENL111",
+            "GENL118",
+            "GENL216",
+            "IT122",
+            "IT123",
+            "IT153",
+            "IT252",
+            "IT268",
+            "IT483"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 0,
+        "pending_free_electives": -4,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    "IT350",
+                    "GENL214",
+                    "GENL311",
+                    "IT369"
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    "IT486",
+                    "GENL312",
+                    {
+                        "Major Elective 3": [
+                            "IT322",
+                            "IT422"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            "IT421"
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    "IT488",
+                    "IT487"
+                ]
+            }
+        ]
+    }
+}

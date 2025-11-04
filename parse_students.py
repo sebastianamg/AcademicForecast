@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import json
 import sys
 from collections import defaultdict
@@ -38,7 +39,8 @@ def restructure_student_data(input_path, output_path):
         course_details = {
             'year': record.get('year'),
             'semester': record.get('semester'),
-            'grade': record.get('grade')
+            'grade': record.get('grade'),
+            'internal_course_id': record.get('internal_course_id')
         }
         
         # Add the course to the student's record
