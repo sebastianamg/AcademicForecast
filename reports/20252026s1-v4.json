@@ -1,0 +1,3550 @@
+{
+    "202200126": {
+        "passed_courses": [
+            "BUAD234",
+            "EDUC111",
+            "Humanities-2",
+            "IT274"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "CPTR114",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT282",
+            "IT295",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT383",
+            "IT384",
+            "IT468",
+            "IT484",
+            "MATH112",
+            "MATH235",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-3",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "RELP312"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Content Management Systems",
+                                "internal_code": "366",
+                                "course_id": "IT364"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    },
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 6": [
+                            {
+                                "name": "Content Management Systems",
+                                "internal_code": "366",
+                                "course_id": "IT364"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202200136": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "HLED117",
+            "Humanities-1",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT242",
+            "IT251",
+            "IT274",
+            "IT295",
+            "IT325",
+            "IT326",
+            "IT333",
+            "IT352",
+            "IT364",
+            "IT463",
+            "IT468",
+            "MATH235",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [
+            "IT282",
+            "IT341"
+        ],
+        "pending_core_courses": [
+            "ENGL112",
+            "IT240",
+            "IT272",
+            "IT383",
+            "IT384",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-2",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT341"
+                    },
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Networking and Data Communications\u00a0",
+                        "internal_code": "201",
+                        "course_id": "IT282"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Application Development for Mobile Devices / Mobile Application Development",
+                                "internal_code": "209",
+                                "course_id": "IT345"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            },
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    }
+                ]
+            }
+        ]
+    },
+    "202200142": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "HLED117",
+            "Humanities-2",
+            "Humanities-3",
+            "IT240",
+            "IT274",
+            "IT282",
+            "IT333",
+            "IT352",
+            "IT364",
+            "IT424",
+            "IT468",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [
+            "IT231",
+            "IT251",
+            "IT295",
+            "IT341",
+            "IT483",
+            "MATH235"
+        ],
+        "pending_core_courses": [
+            "ENGL112",
+            "IT232",
+            "IT242",
+            "IT272",
+            "IT341",
+            "IT384",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Applied Statistics",
+                        "internal_code": "32",
+                        "course_id": "MATH235"
+                    },
+                    {
+                        "name": "Computing Platform Technology",
+                        "internal_code": "104",
+                        "course_id": "IT295"
+                    },
+                    {
+                        "name": "Database Design",
+                        "internal_code": "103",
+                        "course_id": "IT251"
+                    },
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "name": "Network Design and Administration",
+                        "internal_code": "112",
+                        "course_id": "IT383"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT460"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Essential of Computer Programming",
+                        "internal_code": "198",
+                        "course_id": "IT231"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT423"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT460"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    }
+                ]
+            }
+        ]
+    },
+    "202200154": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "ENGL111",
+            "Humanities-1",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT295",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT364",
+            "MATH235",
+            "PSYC115"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "ENGL112",
+            "HLED117",
+            "IT240",
+            "IT282",
+            "IT383",
+            "IT384",
+            "IT468",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "MNGT378"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-2",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "RELP312"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT326"
+                            },
+                            {
+                                "name": "Application Development for Mobile Devices / Mobile Application Development",
+                                "internal_code": "209",
+                                "course_id": "IT345"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            },
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT423"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    },
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT326"
+                            },
+                            {
+                                "name": "Application Development for Mobile Devices / Mobile Application Development",
+                                "internal_code": "209",
+                                "course_id": "IT345"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            },
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202200177": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT274",
+            "IT295",
+            "IT333",
+            "IT341",
+            "IT345",
+            "IT352",
+            "IT364",
+            "IT424",
+            "IT468",
+            "MATH235",
+            "MNGT378",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "IT272",
+            "IT282",
+            "IT383",
+            "IT384",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-2",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT460"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT326"
+                            },
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT423"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    }
+                ]
+            }
+        ]
+    },
+    "202200178": {
+        "passed_courses": [
+            "BUAD234",
+            "CPTR114",
+            "EDUC111",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT274",
+            "IT282",
+            "IT325",
+            "IT326",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT364",
+            "IT423",
+            "IT424",
+            "IT447",
+            "IT468",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "IT272",
+            "IT295",
+            "IT384",
+            "IT484",
+            "MATH112",
+            "MATH235",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-2",
+            "Humanities-3",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "name": "Network Design and Administration",
+                        "internal_code": "112",
+                        "course_id": "IT383"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT460"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    }
+                ]
+            }
+        ]
+    },
+    "202200185": {
+        "passed_courses": [
+            "CPTR114",
+            "EDUC111",
+            "Humanities-2",
+            "Humanities-3",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT274",
+            "IT282",
+            "IT295",
+            "IT326",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT364",
+            "IT447",
+            "MATH235"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "BUAD234",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "IT272",
+            "IT384",
+            "IT468",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "name": "Network Design and Administration",
+                        "internal_code": "112",
+                        "course_id": "IT383"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT460"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "RELP312"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Application Development for Mobile Devices / Mobile Application Development",
+                                "internal_code": "209",
+                                "course_id": "IT345"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            },
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT423"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT460"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    }
+                ]
+            }
+        ]
+    },
+    "202200246": {
+        "passed_courses": [
+            "CPTR114",
+            "EDUC111",
+            "Humanities-3",
+            "IT231",
+            "IT251",
+            "IT295",
+            "IT333",
+            "IT341",
+            "IT345",
+            "IT364",
+            "IT423",
+            "IT463",
+            "IT468",
+            "MATH235"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "BUAD234",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT272",
+            "IT274",
+            "IT282",
+            "IT352",
+            "IT383",
+            "IT384",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-1",
+            "Humanities-2",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "RELP312"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Electronic Business",
+                                "internal_code": "31",
+                                "course_id": "IT424"
+                            },
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    }
+                ]
+            }
+        ]
+    },
+    "202200254": {
+        "passed_courses": [
+            "EDUC111",
+            "Humanities-1",
+            "Humanities-3",
+            "IT272",
+            "IT295",
+            "IT384",
+            "IT445",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [
+            "IT232",
+            "IT333",
+            "IT341",
+            "MATH235"
+        ],
+        "pending_core_courses": [
+            "BUAD234",
+            "CPTR114",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT274",
+            "IT282",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT383",
+            "IT468",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-2",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Applied Statistics",
+                        "internal_code": "32",
+                        "course_id": "MATH235"
+                    },
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Content Management Systems",
+                                "internal_code": "366",
+                                "course_id": "IT364"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    },
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202200272": {
+        "passed_courses": [
+            "CPTR114",
+            "Humanities-1",
+            "Humanities-3",
+            "IT231",
+            "IT295",
+            "IT325",
+            "IT364",
+            "IT421",
+            "IT480",
+            "MATH235"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "BUAD234",
+            "EDUC111",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "IT232",
+            "IT240",
+            "IT242",
+            "IT251",
+            "IT272",
+            "IT274",
+            "IT282",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT383",
+            "IT384",
+            "IT468",
+            "IT484",
+            "MATH112",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-2",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "RELP312"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    }
+                ]
+            }
+        ]
+    },
+    "202200292": {
+        "passed_courses": [
+            "BUAD234",
+            "EDUC111",
+            "Humanities-1",
+            "IT242",
+            "IT274",
+            "IT282",
+            "IT364",
+            "RELP312"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "CPTR114",
+            "ENGL111",
+            "ENGL112",
+            "HLED117",
+            "IT231",
+            "IT232",
+            "IT240",
+            "IT251",
+            "IT272",
+            "IT295",
+            "IT333",
+            "IT341",
+            "IT352",
+            "IT384",
+            "IT468",
+            "IT484",
+            "MATH112",
+            "MATH235",
+            "MNGT231",
+            "MNGT378",
+            "PSYC115"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities-2",
+            "Humanities-3",
+            "Humanities-4"
+        ],
+        "pending_major_electives": 0,
+        "pending_free_electives": 0,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Network Design and Administration",
+                        "internal_code": "112",
+                        "course_id": "IT383"
+                    },
+                    {
+                        "name": "Social Issues and Ethics for IT professionals",
+                        "internal_code": "111",
+                        "course_id": "IT371"
+                    },
+                    {
+                        "Major Elective 2": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            }
+                        ]
+                    },
+                    "free-elective"
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT447"
+                    },
+                    {
+                        "name": "Information Systems Security",
+                        "internal_code": "114",
+                        "course_id": "IT483"
+                    },
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Artificial Intelligence",
+                                "internal_code": "205",
+                                "course_id": "IT445"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT480"
+                            },
+                            {
+                                "name": "Professional Internship\u00a0/ Cooperative Education",
+                                "internal_code": "211",
+                                "course_id": "IT485"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2027-2028",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 6": [
+                            {
+                                "name": "Accounting Principles I",
+                                "internal_code": "27",
+                                "course_id": "ACCT131"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300153": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL214",
+            "GENL216",
+            "Humanities 1",
+            "IT122",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT262"
+        ],
+        "failed_courses_to_retake": [
+            "GENL118"
+        ],
+        "pending_core_courses": [
+            "GENL115",
+            "IT123",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Understanding our Environment / Environmental Conservation",
+                        "internal_code": "5",
+                        "course_id": "GENL118"
+                    },
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    },
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL311"
+                    },
+                    {
+                        "name": "Front-end Web Development",
+                        "internal_code": "109",
+                        "course_id": "IT363"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Management\u00a0Information Systems",
+                        "internal_code": "202",
+                        "course_id": "IT366"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT421"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300154": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL214",
+            "GENL216",
+            "Humanities 1",
+            "IT122",
+            "IT124",
+            "IT153",
+            "IT262"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL115",
+            "GENL118",
+            "IT123",
+            "IT151",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 2,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL311"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    },
+                    {
+                        "name": "Front-end Web Development",
+                        "internal_code": "109",
+                        "course_id": "IT363"
+                    },
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Management\u00a0Information Systems",
+                        "internal_code": "202",
+                        "course_id": "IT366"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300155": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "GENL216",
+            "GENL311",
+            "IT122",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT262",
+            "IT363"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL115",
+            "IT123",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities 1"
+        ],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    },
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Management\u00a0Information Systems",
+                        "internal_code": "202",
+                        "course_id": "IT366"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT421"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300158": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "GENL311",
+            "IT122",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT262",
+            "IT363",
+            "IT366"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL115",
+            "GENL216",
+            "IT123",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities 1"
+        ],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    },
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT421"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300181": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL214",
+            "GENL216",
+            "Humanities 1",
+            "IT122",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT262",
+            "IT363"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL115",
+            "GENL118",
+            "IT123",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    },
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL311"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Management\u00a0Information Systems",
+                        "internal_code": "202",
+                        "course_id": "IT366"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT421"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300188": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "IT122",
+            "IT124",
+            "IT153",
+            "IT241",
+            "IT252",
+            "IT363"
+        ],
+        "failed_courses_to_retake": [
+            "IT151",
+            "IT245"
+        ],
+        "pending_core_courses": [
+            "GENL115",
+            "GENL216",
+            "IT123",
+            "IT243",
+            "IT262",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities 1"
+        ],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Object Oriented Programming",
+                        "internal_code": "105",
+                        "course_id": "IT245"
+                    },
+                    {
+                        "name": "Survey of Mathematics / Mathematics for Information Technology",
+                        "internal_code": "14",
+                        "course_id": "IT151"
+                    },
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL311"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    },
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Management\u00a0Information Systems",
+                        "internal_code": "202",
+                        "course_id": "IT366"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT421"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300203": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "Humanities 1",
+            "IT122",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT262",
+            "IT363",
+            "IT421"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL115",
+            "GENL216",
+            "IT123",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    },
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL311"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Management\u00a0Information Systems",
+                        "internal_code": "202",
+                        "course_id": "IT366"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300206": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "GENL216",
+            "GENL311",
+            "Humanities 1",
+            "IT122",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT245",
+            "IT252",
+            "IT262",
+            "IT363",
+            "IT365",
+            "IT366"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL115",
+            "IT123",
+            "IT243",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT421"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300210": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL214",
+            "GENL216",
+            "GENL311",
+            "Humanities 1",
+            "IT122",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT363",
+            "IT366"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL115",
+            "GENL118",
+            "IT123",
+            "IT262",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    },
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "3",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Business Intelligence & Data Mining",
+                                "internal_code": "379",
+                                "course_id": "IT421"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300211": {
+        "passed_courses": [
+            "GENL111",
+            "GENL113",
+            "GENL114",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "GENL216",
+            "IT122",
+            "IT124",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT245",
+            "IT252",
+            "IT262",
+            "IT363",
+            "IT421"
+        ],
+        "failed_courses_to_retake": [],
+        "pending_core_courses": [
+            "GENL115",
+            "IT123",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities 1"
+        ],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Systems Analysis and Design",
+                        "internal_code": "110",
+                        "course_id": "IT365"
+                    },
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Web Applications Development",
+                        "internal_code": "107",
+                        "course_id": "IT367"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL311"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Management\u00a0Information Systems",
+                        "internal_code": "202",
+                        "course_id": "IT366"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            },
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT325"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Big Data",
+                                "internal_code": "113",
+                                "course_id": "IT422"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "202300212": {
+        "passed_courses": [
+            "GENL113",
+            "IT124",
+            "IT245",
+            "IT325"
+        ],
+        "failed_courses_to_retake": [
+            "IT483"
+        ],
+        "pending_core_courses": [
+            "GENL111",
+            "GENL114",
+            "GENL115",
+            "GENL116",
+            "GENL118",
+            "GENL214",
+            "GENL216",
+            "IT122",
+            "IT123",
+            "IT151",
+            "IT153",
+            "IT241",
+            "IT243",
+            "IT252",
+            "IT262",
+            "IT264",
+            "IT268",
+            "IT350",
+            "IT363",
+            "IT365",
+            "IT367",
+            "IT481",
+            "IT483",
+            "IT486",
+            "IT487",
+            "IT488"
+        ],
+        "pending_choice_placeholders": [
+            "Humanities 1"
+        ],
+        "pending_major_electives": 1,
+        "pending_free_electives": 2,
+        "forecast": [
+            {
+                "academic_year": "2025-2026",
+                "semester": "1",
+                "courses": [
+                    {
+                        "name": "Project Management",
+                        "internal_code": "40",
+                        "course_id": "IT369"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL311"
+                    }
+                ]
+            },
+            {
+                "academic_year": "2025-2026",
+                "semester": "2",
+                "courses": [
+                    {
+                        "name": "Management\u00a0Information Systems",
+                        "internal_code": "202",
+                        "course_id": "IT366"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "internal_code": "204",
+                        "course_id": "IT368"
+                    },
+                    {
+                        "name": "Marriage and Family",
+                        "internal_code": "13",
+                        "course_id": "GENL312"
+                    },
+                    {
+                        "Major Elective 3": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "1",
+                "courses": [
+                    {
+                        "Major Elective 4": [
+                            {
+                                "name": "Linux System",
+                                "internal_code": "108",
+                                "course_id": "IT321"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "academic_year": "2026-2027",
+                "semester": "2",
+                "courses": [
+                    {
+                        "Major Elective 5": [
+                            {
+                                "name": "Cloud Computing",
+                                "internal_code": "203",
+                                "course_id": "IT322"
+                            },
+                            {
+                                "name": "Emerging Topics in IT\u00a0",
+                                "internal_code": "206",
+                                "course_id": "IT426"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

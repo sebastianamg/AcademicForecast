@@ -5,19 +5,18 @@
         {"course": "GENL111", "pre": [], "pg": "D", "semester": 1, "name": "Orientation to Higher Education / Essential Skills for Higher Education"},
         {"course": "GENL113", "pre": [], "pg": "D", "semester": 1, "name": "English Composition I / College Writing I / Essay Writing"},
         {"course": "GENL115", "pre": [], "pg": "D", "semester": 1, "name": "Computer Concepts and App  / Info Tech Funda and App"},
-        {"course": "GENL114", "pre": [], "pg": "D", "semester": 1, "name": "Health and Fitness"},
-        {"course": "IT151", "pre": [], "pg": "D+", "semester": 1, "name": "Survey of Mathematics / Mathematics for Information Technology"},
         {"course": "IT153", "pre": [], "pg": "D+", "semester": 1, "name": "Introduction to Computing"},
+        {"course": "IT151", "pre": [], "pg": "D+", "semester": 1, "name": "Survey of Mathematics / Mathematics for Information Technology"},
         {"course": "IT481", "pre": [], "pg": "C", "semester": 1, "name": "Principles of Management"},
 
+        {"course": "GENL114", "pre": [], "pg": "D", "semester": 2, "name": "Health and Fitness"},
         {"course": "GENL116", "pre": [], "pg": "D", "semester": 2, "name": "Living Like Jesus in the Modern World / Life and Teachings of Jesus"},
-        {"course": "GENL118", "pre": [], "pg": "D", "semester": 2, "name": "Understanding our Environment / Environmental Conservation"},
         {"course": "IT122", "pre": ["IT153"], "pg": "C", "semester": 2, "name": "Essential of Computer Programming"},
         {"course": "IT124", "pre": [], "pg": "C", "semester": 2, "name": "Human-Computer Interaction  "},
+        {"course": "GENL118", "pre": [], "pg": "D", "semester": 2, "name": "Introduction to Psychology"},
         {"course": "IT123", "pre": [], "pg": "C", "semester": 2, "name": "Content Management Systems"},
-
-        {"course": "IT243", "pre": [], "pg": "C", "semester": 4, "name": "Computing Platform Technology"},
-        {"course": "IT245", "pre": ["IT122"], "pg": "C", "semester": 4, "name": "Object Oriented Programming"},
+        
+        
         {
             "choice": {
                 "placeholder": "Humanities 1",
@@ -29,13 +28,16 @@
             "pg": "D",
             "semester": 4
         },
+        {"course": "IT243", "pre": [], "pg": "C", "semester": 4, "name": "Computing Platform Technology"},
+        {"course": "IT245", "pre": ["IT122"], "pg": "C", "semester": 4, "name": "Object Oriented Programming"},
+        {"course": "GENL118", "pre": [], "pg": "D", "semester": 4, "name": "Understanding our Environment / Environmental Conservation"},
+        {"course": "IT264", "pre": ["IT245"], "pg": "C", "semester": 4, "name": "Data Structures and Algorithms"},
 
         {"course": "GENL214", "pre": [], "pg": "D", "semester": 5, "name": "English Composition II  / College Writing II"},
         {"course": "GENL216", "pre": [], "pg": "D", "semester": 5, "name": "Ethical Models / Ethical Decision Making"},
         {"course": "IT241", "pre": ["IT153"], "pg": "C", "semester": 5, "name": "Database Design"},
-        {"course": "IT252", "pre": [], "pg": "D+", "semester": 5, "name": "Discrete Mathematics."},
         {"course": "IT262", "pre": ["IT153"], "pg": "C", "semester": 5, "name": "Networking and Data Communications"},
-        {"course": "IT264", "pre": ["IT245"], "pg": "C", "semester": 5, "name": "Data Structures and Algorithms"},
+        {"course": "IT252", "pre": [], "pg": "D+", "semester": 5, "name": "Discrete Mathematics."},
 
         {"course": "IT268", "pre": [], "pg": "C", "semester": 6, "name": "Social Issues and Ethics for IT professionals"},
         
@@ -46,9 +48,9 @@
         {"course": "IT369", "pre": [], "pg": "C", "semester": 7, "name": "Project Management"},
 
         {"course": "GENL312", "pre": [], "pg": "D", "semester": 8, "name": "Personal Money Management "},
-        {"course": "IT350", "pre": [], "pg": "D+", "semester": 8, "name": "Applied Statistics"},
         {"course": "IT366", "pre": [], "pg": "C", "semester": 8, "name": "Management Information Systems"},
         {"course": "IT368", "pre": [], "pg": "C", "semester": 8, "name": "Software Engineering"},
+        {"course": "IT350", "pre": [], "pg": "D+", "semester": 8, "name": "Applied Statistics"},
 
         {"course": "IT486", "pre": [], "pg": "C", "semester": 9, "name": "Systems Development Project I / Capstone Project I"},
 
@@ -75,10 +77,10 @@
             {"course": "IT427", "pre": ["IT245"], "name": "Application Development for Mobile Devices / Mobile Application Development"}
         ],
         "slots": [
-            {"semester": 4, "placeholder": "Major Elective 1"},
-            {"semester": 6, "placeholder": "Major Elective 2"},
-            {"semester": 8, "placeholder": "Major Elective 3"},
-            {"semester": 9, "placeholder": "Major Elective 4"},
+            {"semester": 6, "placeholder": "Major Elective 1"},
+            {"semester": 8, "placeholder": "Major Elective 2"},
+            {"semester": 9, "placeholder": "Major Elective 3"},
+            {"semester": 10, "placeholder": "Major Elective 4"},
             {"semester": 10, "placeholder": "Major Elective 5"}
         ]
     },

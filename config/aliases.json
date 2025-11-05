@@ -44,8 +44,8 @@
   "8":{
     "course_names": "Introduction to Psychology",
     "BScIT2018": "",
-    "BScIT2023": "",
-    "default": "EDUC115/GENL118"
+    "BScIT2023": "GENL118",
+    "default": "EDUC115"
   },
   "9":{
     "course_names": "Introduction Seventh-day Adventist Beliefs / Fundamentals of Christian Beliefs (SDA)",
